@@ -16,15 +16,33 @@ function displayPlaceDetails(place) {
         <p><strong>URL :</strong> <a href="${place.url}" target="_blank">${place.url}</a></p>`;
 }
 
-function loadAndDisplayRandomPlace() {
-    fetch('bar.json')
+let placesData = null;
+
+function loadPlacesData() {
+    return fetch('bar.json')
         .then(response => response.json())
         .then(data => {
-            const randomPlace = getRandomPlace(data);
-            displayPlaceDetails(randomPlace);
+            placesData = data;
+            return data;
+            loadAndDisplayRandomPlace()
         })
-        .catch(error => console.error('Erreur lors du chargement du fichier JSON:', error));
+        .catch(error => {
+            console.error('Erreur lors du chargement du fichier JSON:', error);
+            throw error;
+        });
 }
 
-// Appeler la fonction pour charger et afficher les données lors du chargement de la page
-document.addEventListener('DOMContentLoaded', loadAndDisplayRandomPlace);
+function loadAndDisplayRandomPlace() {
+    if (!placesData) {
+        console.error('Les données des bars ne sont pas encore chargées.');
+        return;
+    }
+    const randomPlace = getRandomPlace(placesData);
+    displayPlaceDetails(randomPlace);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    loadPlacesData().then(loadAndDisplayRandomPlace);
+});
+
+document.getElementById('reload-btn').addEventListener('click', loadAndDisplayRandomPlace);
