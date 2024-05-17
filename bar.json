@@ -315,31 +315,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.1974407,
-            "lng": -1.5890498
-        },
-        "address": "17 Rue Jules Launey, 44100 Nantes, France",
-        "title": "Bar",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Bar&query_place_id=ChIJeY5DY63rBUgRJLshHf5RTSA"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.1992968,
-            "lng": -1.5888033
-        },
-        "address": "24 Bd de la Liberté, 44100 Nantes, France",
-        "title": "La Poissonne-Rie",
-        "totalScore": 5,
-        "reviewsCount": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Poissonne-Rie&query_place_id=ChIJg6Viw4jrBUgRuuOVjdcB-ro"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2535256,
             "lng": -1.5404802
         },
@@ -504,19 +479,6 @@
         "totalScore": 5,
         "reviewsCount": 26,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Enchantier%20Nantes&query_place_id=ChIJlV6vECPvBUgRNj1BcpOC770"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2200902,
-            "lng": -1.5316405
-        },
-        "address": "123 Bd Ernest Dalby, 44000 Nantes, France",
-        "title": "Gadaix Jean",
-        "totalScore": 2.2,
-        "reviewsCount": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Gadaix%20Jean&query_place_id=ChIJccLBoMPuBUgRSbbr3xTJn6k"
     },
     {
         "categoryName": "Bar",
@@ -951,19 +913,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2185811,
-            "lng": -1.5394765
-        },
-        "address": "17 Bd de Stalingrad, 44000 Nantes, France",
-        "title": "Bar Pmu",
-        "totalScore": 2.5,
-        "reviewsCount": 2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Pmu&query_place_id=ChIJQ5tSVb_uBUgR8Zde2CZnaOA"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2201801,
             "lng": -1.5489524
         },
@@ -1128,31 +1077,6 @@
         "totalScore": 4.3,
         "reviewsCount": 170,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Moonlight&query_place_id=ChIJiaKM3LzuBUgROnZzMc--p0Y"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2176292,
-            "lng": -1.5453178
-        },
-        "address": "29 Rue de Richebourg, 44000 Nantes, France",
-        "title": "Rue de la baclerie",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20baclerie&query_place_id=ChIJAabQAQDvBUgRl2jGI8B32BA"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2208936,
-            "lng": -1.535745
-        },
-        "address": "19 Rue de Coulmiers, 44000 Nantes, France",
-        "title": "Jibizz",
-        "totalScore": 5,
-        "reviewsCount": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Jibizz&query_place_id=ChIJAQAcC8HuBUgRKInPZwqLWFw"
     },
     {
         "categoryName": "Bar",
@@ -1691,19 +1615,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2145749,
-            "lng": -1.5578691
-        },
-        "address": "1 Pl. Royale, 44000 Nantes, France",
-        "title": "Café Le Continental",
-        "totalScore": 4.5,
-        "reviewsCount": 2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Le%20Continental&query_place_id=ChIJi_hOyafuBUgRYhTkxk10jGU"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2149671,
             "lng": -1.5584374
         },
@@ -1977,18 +1888,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.248704,
-            "lng": -1.519863
-        },
-        "address": "4 Rte de Paris, 44000 Nantes, France",
-        "title": "JOINT FAMILY",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=JOINT%20FAMILY&query_place_id=ChIJe3xbDwDvBUgRAvOCPXDQmJ0"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2155711,
             "lng": -1.5571355
         },
@@ -2062,18 +1961,6 @@
         "totalScore": 4.6,
         "reviewsCount": 112,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Voisins%20-%20Bar%20%26%20Restaurant%20Nantes&query_place_id=ChIJkVJZJ3PvBUgRpaUCviopqII"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2130156,
-            "lng": -1.5459548
-        },
-        "address": "12 Rue de Jemmapes, 44000 Nantes, France",
-        "title": "Comptoir De La Cite",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Comptoir%20De%20La%20Cite&query_place_id=ChIJq6ou87DuBUgRNaMgKoKUml0"
     },
     {
         "categoryName": "Bar",
@@ -2534,18 +2421,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2044192,
-            "lng": -1.548153
-        },
-        "address": "16 Rue Petite Biesse, 44200 Nantes, France",
-        "title": "Red And Black Bar",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Red%20And%20Black%20Bar&query_place_id=ChIJwWeqsLLuBUgR8aTZQuPW86Y"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2044039,
             "lng": -1.5482009
         },
@@ -2624,18 +2499,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2122646,
-            "lng": -1.5720046
-        },
-        "address": "13 Rue Chevert, 44100 Nantes, France",
-        "title": "La cocotte Bar",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20cocotte%20Bar&query_place_id=ChIJ30YMARjtBUgR6JvZtWkqG8w"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2124424,
             "lng": -1.5834722
         },
@@ -2688,19 +2551,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2138113,
-            "lng": -1.5854257
-        },
-        "address": "59 Bd Pasteur, 44100 Nantes, France",
-        "title": "Snc Le Maryland",
-        "totalScore": 5,
-        "reviewsCount": 1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Snc%20Le%20Maryland&query_place_id=ChIJ__-r723sBUgRPG1MNwVS518"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2069358,
             "lng": -1.600756
         },
@@ -2709,18 +2559,6 @@
         "totalScore": 3.5,
         "reviewsCount": 13,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20l'Avenir&query_place_id=ChIJs1cPF37sBUgRLPGaNOlVGS4"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2157252,
-            "lng": -1.5560149
-        },
-        "address": "13 Rue des Halles, 44000 Nantes, France",
-        "title": "La Kbane",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Kbane&query_place_id=ChIJKYHrFQDvBUgRl_-05r8RsUo"
     },
     {
         "categoryName": "Cocktail bar",
@@ -2734,18 +2572,6 @@
         "totalScore": 5,
         "reviewsCount": 28,
         "url": "https://www.google.com/maps/search/?api=1&query=Bande%20Originale&query_place_id=ChIJQ6MhX7_vBUgRzptfXYBFC_4"
-    },
-    {
-        "categoryName": "Cafe",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2158565,
-            "lng": -1.5543577
-        },
-        "address": "2 Rue du Moulin, 44000 Nantes, France",
-        "title": "AUX P TITS RUISSEAUX",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=AUX%20P%20TITS%20RUISSEAUX&query_place_id=ChIJUcbKFOLvBUgRt-lT-mwY2ag"
     },
     {
         "categoryName": "Bar",
@@ -2855,19 +2681,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2077866,
-            "lng": -1.5789913
-        },
-        "address": "2 Rue de Pilleux, 44100 Nantes, France",
-        "title": "Haddadi Hassani Frederique",
-        "totalScore": 3.8,
-        "reviewsCount": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Haddadi%20Hassani%20Frederique&query_place_id=ChIJQ-xIZgvsBUgRam0TEQ0j0dc"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2151848,
             "lng": -1.5514675
         },
@@ -2928,19 +2741,6 @@
         "totalScore": 3.3,
         "reviewsCount": 597,
         "url": "https://www.google.com/maps/search/?api=1&query=New%20Factory&query_place_id=ChIJAQCsHLHuBUgRpNF1iX3Ov3k"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.213567,
-            "lng": -1.533389
-        },
-        "address": "2A Rue de Madrid, 44000 Nantes, France",
-        "title": "Floppy",
-        "totalScore": 5,
-        "reviewsCount": 3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Floppy&query_place_id=ChIJw61KJBzvBUgRV2kiZ37Sv6U"
     },
     {
         "categoryName": "Bar",
@@ -3141,19 +2941,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2151336,
-            "lng": -1.5570503
-        },
-        "address": "8 Rue Saint-Nicolas, 44000 Nantes, France",
-        "title": "Le p'tit Nicolas",
-        "totalScore": 5,
-        "reviewsCount": 2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20p'tit%20Nicolas&query_place_id=ChIJOxICIjPvBUgRututmpfF7XU"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2193189,
             "lng": -1.5548676
         },
@@ -3162,18 +2949,6 @@
         "totalScore": 4.7,
         "reviewsCount": 84,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Sauvage&query_place_id=ChIJS9Xi46PuBUgRkfTiGxN9Exw"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.219831,
-            "lng": -1.556377
-        },
-        "address": "15 All. des Tanneurs, 44000 Nantes, France",
-        "title": "Mdn Gaming",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Mdn%20Gaming&query_place_id=ChIJpZ1va6HuBUgRff_gCnugTG0"
     },
     {
         "categoryName": "Coffee shop",
@@ -3330,19 +3105,6 @@
         "totalScore": 4.7,
         "reviewsCount": 126,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20La%20Perle&query_place_id=ChIJ86TK0KfuBUgR86zYnLmO_JM"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2139804,
-            "lng": -1.5534966
-        },
-        "address": "2 Rue Léon Maître, 44000 Nantes, France",
-        "title": "Pulp Cosmopolitan Bar",
-        "totalScore": 5,
-        "reviewsCount": 1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Pulp%20Cosmopolitan%20Bar&query_place_id=ChIJkZkjjaXuBUgRiOLgTlI7h9E"
     },
     {
         "categoryName": "Bar",
@@ -3894,18 +3656,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2140706,
-            "lng": -1.561826
-        },
-        "address": "16 Rue Scribe, 44000 Nantes, France",
-        "title": "Petit rue bar",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Petit%20rue%20bar&query_place_id=ChIJO8TPQADtBUgRWUqzty1G5p4"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.214417,
             "lng": -1.5634835
         },
@@ -3971,19 +3721,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2158757,
-            "lng": -1.5518298
-        },
-        "address": "2 Rue de l'Emery, 44000 Nantes, France",
-        "title": "B.b",
-        "totalScore": 3,
-        "reviewsCount": 2,
-        "url": "https://www.google.com/maps/search/?api=1&query=B.b&query_place_id=ChIJg9HjAqXuBUgRS5D7x9OxiPQ"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2178527,
             "lng": -1.5514037
         },
@@ -3992,18 +3729,6 @@
         "totalScore": 4.2,
         "reviewsCount": 139,
         "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Saint%20Pierre&query_place_id=ChIJhxrrmaTuBUgRW_4Q8APCjbM"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2162777,
-            "lng": -1.5521736
-        },
-        "address": "12 Rue du Château, 44000 Nantes, France",
-        "title": "Licorne avec glace",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Licorne%20avec%20glace&query_place_id=ChIJAa4YpAPvBUgR7Cft6ftu7P4"
     },
     {
         "categoryName": "Bar",
@@ -4061,18 +3786,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.2152947,
-            "lng": -1.5521796
-        },
-        "address": "10 Rue des Petites Écuries, 44000 Nantes, France",
-        "title": "La Papa",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Papa&query_place_id=ChIJfRwDCKXuBUgRUls_U57Z9xY"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2163415,
             "lng": -1.5516676
         },
@@ -4094,19 +3807,6 @@
         "totalScore": 4.5,
         "reviewsCount": 3539,
         "url": "https://www.google.com/maps/search/?api=1&query=Au%20Vieux%20Quimper&query_place_id=ChIJDUKLuaXuBUgRtK-VsPP1pb4"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2165776,
-            "lng": -1.5524934
-        },
-        "address": "33 Rue de Verdun, 44000 Nantes, France",
-        "title": "Les 19 Gones",
-        "totalScore": 4.7,
-        "reviewsCount": 3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Les%2019%20Gones&query_place_id=ChIJ3Yg1WKTuBUgRGkG3kga9yIE"
     },
     {
         "categoryName": "Bar",
@@ -4291,18 +3991,6 @@
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJbQoAQKbuBUgRISOyjruadqM"
     },
     {
-        "categoryName": "Tiki bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2087632,
-            "lng": -1.5688161
-        },
-        "address": "85 Quai de la Fosse, 44100 Nantes, France",
-        "title": "Y'a Pot",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Y'a%20Pot&query_place_id=ChIJqWX3lyrtBUgRg89djW4t2eM"
-    },
-    {
         "categoryName": "Wine bar",
         "city": "Nantes",
         "location": {
@@ -4314,19 +4002,6 @@
         "totalScore": 4.5,
         "reviewsCount": 207,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Com%C3%A9die%20des%20Vins&query_place_id=ChIJr-O0swLsBUgR_Q2Fp65hAMg"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2139935,
-            "lng": -1.5613058
-        },
-        "address": "9 Rue Scribe, 44000 Nantes, France",
-        "title": "Hollywood Cafe - Casa Rod - The Karlive",
-        "totalScore": 5,
-        "reviewsCount": 1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Cafe%20-%20Casa%20Rod%20-%20The%20Karlive&query_place_id=ChIJ7T4JSx3sBUgRCQa8ojqHi8E"
     },
     {
         "categoryName": "Bar",
@@ -4366,31 +4041,6 @@
         "totalScore": 4.5,
         "reviewsCount": 34,
         "url": "https://www.google.com/maps/search/?api=1&query=Chauffe%20Marcel&query_place_id=ChIJye3HKq7uBUgRyss7IZT1R8c"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.213109,
-            "lng": -1.5541567
-        },
-        "address": "5 Cr Olivier de Clisson, 44000 Nantes, France",
-        "title": "Le tkt",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20tkt&query_place_id=ChIJzQy-ppzvBUgR-BL9NNTLk0o"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2120284,
-            "lng": -1.5543427
-        },
-        "address": "1 Pl. Alexis-Ricordeau, 44000 Nantes, France",
-        "title": "Picadeli",
-        "totalScore": 5,
-        "reviewsCount": 1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Picadeli&query_place_id=ChIJ6X6iPOPvBUgRY7fOS9hFON8"
     },
     {
         "categoryName": "Bar",
@@ -4448,18 +4098,6 @@
         "categoryName": "Bar",
         "city": "Nantes",
         "location": {
-            "lat": 47.21658,
-            "lng": -1.551295
-        },
-        "address": "6 Rue des Carmélites, 44000 Nantes, France",
-        "title": "La Compagnie Événementiel Rental Salles À Nantes",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Compagnie%20%C3%89v%C3%A9nementiel%20Rental%20Salles%20%C3%80%20Nantes&query_place_id=ChIJrXhmUI8VHGoREZLyrTWRmyc"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
             "lat": 47.2134199,
             "lng": -1.561654
         },
@@ -4494,18 +4132,6 @@
         "totalScore": 4.5,
         "reviewsCount": 48,
         "url": "https://www.google.com/maps/search/?api=1&query=Trempolino&query_place_id=ChIJ9Z75QHHsBUgR-zP_isGbDNk"
-    },
-    {
-        "categoryName": "Bar",
-        "city": "Nantes",
-        "location": {
-            "lat": 47.2140626,
-            "lng": -1.565754
-        },
-        "address": "16 Rue de la Galissonnière, 44000 Nantes, France",
-        "title": ".",
-        "reviewsCount": 0,
-        "url": "https://www.google.com/maps/search/?api=1&query=.&query_place_id=ChIJLZI0IwDtBUgRx2zCIV8AGqY"
     },
     {
         "categoryName": "Bar",
