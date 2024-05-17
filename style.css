@@ -7,15 +7,17 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    width:100vw;
     background-color: #f4f4f4;
 }
 
 #place-details {
     margin-bottom: 20px;
-    padding: 20px;
+    width:96%;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-wrap: break-word; /* Permet au texte de revenir à la ligne si nécessaire */
 }
 
 button {

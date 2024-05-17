@@ -9,7 +9,7 @@ function displayPlaceDetails(place) {
     const placeDetailsDiv = document.getElementById('place-details');
 
     placeDetailsDiv.innerHTML = `
-        <h2>${place.title}</h2>
+        <center><h2>${place.title}</h2></center>
         <p><strong>Adresse :</strong> ${place.address}</p>
         <p><strong>Catégories :</strong> ${place.categoryName}</p>
         <p><strong>Note :</strong> ${place.totalScore} (${place.reviewsCount} avis)</p>
