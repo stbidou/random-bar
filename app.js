@@ -78,8 +78,8 @@ function loadAndDisplayRandomNearbyPlace() {
             const randomPlace = getRandomPlace(nearbyPlaces);
             displayPlaceDetails(randomPlace);
         } else {
-            console.warn('Aucun bar trouvé dans un rayon de 500m.');
-            document.getElementById('place-details').innerHTML = '<p>Aucun bar trouvé dans un rayon de 500m.</p>';
+            console.warn('Aucun bar trouvé dans le rayon defini.');
+            document.getElementById('place-details').innerHTML = '<p>Aucun bar trouvé dans le rayon défini.</p>';
         }
     }, error => {
         console.error('Erreur de géolocalisation:', error);
