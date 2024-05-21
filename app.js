@@ -1,3 +1,5 @@
+var nbrbar = 0;
+
 function updateValueDisplay() {
             var rangeInput = document.getElementById('rangeInput');
             var valueDisplay = document.getElementById('valueDisplay');
@@ -39,10 +41,12 @@ function displayPlaceDetails(place) {
 
     placeDetailsDiv.innerHTML = `
         <center><h2>${place.title}</h2></center>
+        <hr>
         <p><strong>Adresse :</strong> ${place.address}</p>
         <p><strong>Catégories :</strong> ${place.categoryName}</p>
         <p><strong>Note :</strong> ${place.totalScore} (${place.reviewsCount} avis)</p>
-        <p><strong>URL :</strong> <a href="${place.url}" target="_blank">${place.url}</a></p>`;
+        <p><strong>URL :</strong> <a href="${place.url}" target="_blank">${place.url}</a></p>
+        <hr><p><strong>Nombre de bar dans la zone : </strong>${nbrbar}</p>`;
 }
 
 let placesData = null;
@@ -73,17 +77,17 @@ function loadAndDisplayRandomNearbyPlace() {
         };
         console.log(userLocation)
         const nearbyPlaces = getNearbyPlaces(userLocation, placesData);
-        console.log(nearbyPlaces.length)
-        if (nearbyPlaces.length > 0) {
+        nbrbar = nearbyPlaces.length
+        if (nbrbar > 0) {
             const randomPlace = getRandomPlace(nearbyPlaces);
             displayPlaceDetails(randomPlace);
         } else {
             console.warn('Aucun bar trouvé dans le rayon defini.');
-            document.getElementById('place-details').innerHTML = '<p>Aucun bar trouvé dans le rayon défini.</p>';
+            document.getElementById('place-details').innerHTML = '<center><p>Aucun bar trouvé dans le rayon défini.</p></center>';
         }
     }, error => {
         console.error('Erreur de géolocalisation:', error);
-        document.getElementById('place-details').innerHTML = '<p>Erreur de géolocalisation. Impossible de trouver votre position.</p>';
+        document.getElementById('place-details').innerHTML = '<center><p>Erreur de géolocalisation. Impossible de trouver votre position.</p></center>';
     });
 }
 

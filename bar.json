@@ -1,17 +1,5 @@
 [
     {
-        "categoryName": "Wine cellar",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=Vin%20te%20faire%20boire%20-%20cave%2C%20bar%20%C3%A0%20breuvages%20et%20lieu%20vivant&query_place_id=ChIJm61EgGzvBUgRwhOJo5qQFVM",
-        "address": "83 Rte de Sainte-Luce, 44300 Nantes, France",
-        "reviewsCount": 98,
-        "location": {
-            "lat": 47.2326767,
-            "lng": -1.522119
-        },
-        "title": "Vin te faire boire - cave, bar à breuvages et lieu vivant"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Titanic&query_place_id=ChIJb3fdIn7sBUgR72qEX3X9A4E",
@@ -204,18 +192,6 @@
         "title": "Au Plaiz'Here !"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20D'clic&query_place_id=ChIJUSPfkePuBUgRB2v3qqFRoAk",
-        "address": "42 Rte de Sainte-Luce, 44300 Nantes, France",
-        "reviewsCount": 48,
-        "location": {
-            "lat": 47.2301362,
-            "lng": -1.5236262
-        },
-        "title": "Le D'clic"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Stupid%20Dog&query_place_id=ChIJDbGL5aTuBUgR_V4K5zdLOq0",
@@ -276,18 +252,6 @@
         "title": "Place aux Vins"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20102&query_place_id=ChIJOTxoOfjuBUgR15ixUoH_gYk",
-        "address": "102 Bd Jules Verne, 44300 Nantes, France",
-        "reviewsCount": 146,
-        "location": {
-            "lat": 47.2415204,
-            "lng": -1.5291051
-        },
-        "title": "Le 102"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Belle%20Equipe%201877%20-%20Bar%20%26%20Restaurant%20face%20%C3%A0%20l'Erdre&query_place_id=ChIJI-_5u0LuBUgRfMJtIQw9hKM",
@@ -298,18 +262,6 @@
             "lng": -1.5404802
         },
         "title": "La Belle Equipe 1877 - Bar & Restaurant face à l'Erdre"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 3.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20la%20Beaujoire&query_place_id=ChIJA6vkQlPuBUgR8T6Ki0c8AZs",
-        "address": "1 Rue de la Petite Baratte, 44300 Nantes, France",
-        "reviewsCount": 398,
-        "location": {
-            "lat": 47.24888,
-            "lng": -1.521295
-        },
-        "title": "Café de la Beaujoire"
     },
     {
         "categoryName": "Bar",
@@ -396,30 +348,6 @@
         "title": "Le Gambetta"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Quai%20Des%20Brumes&query_place_id=ChIJ7yeu_MLuBUgR3cWiilOLXBI",
-        "address": "97 Bd Ernest Dalby, 44000 Nantes, France",
-        "reviewsCount": 123,
-        "location": {
-            "lat": 47.221394,
-            "lng": -1.531126
-        },
-        "title": "Quai Des Brumes"
-    },
-    {
-        "categoryName": "Brasserie",
-        "totalScore": 4.6,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Broc%C3%A9liande&query_place_id=ChIJPfuZb73uBUgRQOcwdqbcViE",
-        "address": "40 Rue Préfet Bonnefoy, 44000 Nantes, France",
-        "reviewsCount": 668,
-        "location": {
-            "lat": 47.2227673,
-            "lng": -1.5482716
-        },
-        "title": "Le Brocéliande"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Forge%20-%20Bar%20M%C3%A9di%C3%A9val&query_place_id=ChIJJw7XETDvBUgRrU5EpShfUdE",
@@ -490,18 +418,6 @@
             "lng": -1.5453684
         },
         "title": "L'Alsacien Nantes"
-    },
-    {
-        "categoryName": "Handball club",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=Phb%20-%20Porterie%20Handball&query_place_id=ChIJqTQx7s3vBUgRoEjKfMg2FFs",
-        "address": "509 Rte de Saint-Joseph, 44300 Nantes, France",
-        "reviewsCount": 15,
-        "location": {
-            "lat": 47.2719287,
-            "lng": -1.5169906
-        },
-        "title": "Phb - Porterie Handball"
     },
     {
         "categoryName": "Bar",
@@ -600,30 +516,6 @@
         "title": "Le Pti Zinc"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=DOM%20LE%20BRETON.%20Tabac%20-%20Sushis%20-%20Bar%20de%20Bubble%20Tea%20-%20FDJ%20ouvert%207%2F7%20et%20tous%20les%20jours%20f%C3%A9ri%C3%A9s&query_place_id=ChIJU7jxzoDuBUgRYbSRQBKdta4",
-        "address": "3 Bd du Petit Port, 44300 Nantes, France",
-        "reviewsCount": 37,
-        "location": {
-            "lat": 47.2411624,
-            "lng": -1.557005
-        },
-        "title": "DOM LE BRETON. Tabac - Sushis - Bar de Bubble Tea - FDJ ouvert 7/7 et tous les jours fériés"
-    },
-    {
-        "categoryName": "Tobacco shop",
-        "totalScore": 4.6,
-        "url": "https://www.google.com/maps/search/?api=1&query=Tabac%20Presse%20-%20Collines%20du%20Cens&query_place_id=ChIJTc80WS3sBUgReqXaj2-qZqY",
-        "address": "162 Bd Robert Schuman, 44300 Nantes, France",
-        "reviewsCount": 69,
-        "location": {
-            "lat": 47.2415511,
-            "lng": -1.5731627
-        },
-        "title": "Tabac Presse - Collines du Cens"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Poum%20Poum%20T'chak&query_place_id=ChIJt1iNVaTuBUgRrupl_yGluY4",
@@ -684,18 +576,6 @@
         "title": "LA PLAISIR"
     },
     {
-        "categoryName": "Voluntary organisation",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Ripaillon&query_place_id=ChIJMUor50jpBUgR08gHwrsI5Qc",
-        "address": "7 Rue Esnoul des Châtelets, 44200 Nantes, France",
-        "reviewsCount": 206,
-        "location": {
-            "lat": 47.1967099,
-            "lng": -1.5408938
-        },
-        "title": "Le Ripaillon"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Mon%20Bistrot&query_place_id=ChIJV1CKhkzpBUgRCyVYBw6bNhQ",
@@ -706,18 +586,6 @@
             "lng": -1.5442109
         },
         "title": "Mon Bistrot"
-    },
-    {
-        "categoryName": "Bar PMU",
-        "totalScore": 4.4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Driver%20Bar%20PMU&query_place_id=ChIJa1GHT0zpBUgRaVugU4Gl5yI",
-        "address": "82 Bd Victor Hugo, 44200 Nantes, France",
-        "reviewsCount": 24,
-        "location": {
-            "lat": 47.2006648,
-            "lng": -1.5456537
-        },
-        "title": "Le Driver Bar PMU"
     },
     {
         "categoryName": "Bar",
@@ -792,30 +660,6 @@
         "title": "La Guinguette du Belvédère"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Saint-Mihiel%20-%20Caf%C3%A9%20Tabac%20et%20brasserie%20en%20plein%20c%C5%93ur%20de%20Nantes&query_place_id=ChIJ_Us_d6LuBUgRHnuJyWuQ60o",
-        "address": "16 Quai de Versailles, 44000 Nantes, France",
-        "reviewsCount": 624,
-        "location": {
-            "lat": 47.223017,
-            "lng": -1.553526
-        },
-        "title": "Le Saint-Mihiel - Café Tabac et brasserie en plein cœur de Nantes"
-    },
-    {
-        "categoryName": "Brunch restaurant",
-        "totalScore": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=O%20Deck&query_place_id=ChIJk1aBcAfsBUgRc_CFcagQKEw",
-        "address": "30 Quai Fernand Crouan, 44200 Nantes, France",
-        "reviewsCount": 2324,
-        "location": {
-            "lat": 47.206862,
-            "lng": -1.5687805
-        },
-        "title": "O Deck"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Ca%C3%B1as%20y%20Tapas%20Nantes&query_place_id=ChIJjaG9Fj_tBUgRtMO7pmSzFUY",
@@ -850,18 +694,6 @@
             "lng": -1.549559
         },
         "title": "The Coffee House"
-    },
-    {
-        "categoryName": "Brasserie",
-        "totalScore": 4.4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Louis%20Blanc&query_place_id=ChIJPRj_kqvuBUgRjoostmRV3tA",
-        "address": "2 Rue Louis Blanc, 44200 Nantes, France",
-        "reviewsCount": 1074,
-        "location": {
-            "lat": 47.207233,
-            "lng": -1.555298
-        },
-        "title": "Le Louis Blanc"
     },
     {
         "categoryName": "Irish pub",
@@ -924,18 +756,6 @@
         "title": "Le barouf"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=HIPO&query_place_id=ChIJX7N48r3uBUgRdEBGBcmLwIY",
-        "address": "9 Rue Maréchal Joffre, 44000 Nantes, France",
-        "reviewsCount": 50,
-        "location": {
-            "lat": 47.2228361,
-            "lng": -1.5458674
-        },
-        "title": "HIPO"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 3.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Platanes&query_place_id=ChIJbyMYq7juBUgRcIOdVor_qM4",
@@ -958,18 +778,6 @@
             "lng": -1.4992278
         },
         "title": "V and B Nantes"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.1,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Scoop&query_place_id=ChIJox3T6qruBUgRNN6J1MZVvVM",
-        "address": "32 Bd de la Prairie au Duc, 44200 Nantes, France",
-        "reviewsCount": 59,
-        "location": {
-            "lat": 47.2050221,
-            "lng": -1.5583131
-        },
-        "title": "Le Scoop"
     },
     {
         "categoryName": "Bar",
@@ -1044,30 +852,6 @@
         "title": "Le 91"
     },
     {
-        "categoryName": "Latin American restaurant",
-        "totalScore": 4.2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Loco%20Loca%20Nantes&query_place_id=ChIJRZ1JC_ztBUgRJpU6Sos55NU",
-        "address": "11 Quai de la Fosse, 44000 Nantes, France",
-        "reviewsCount": 511,
-        "location": {
-            "lat": 47.2115811,
-            "lng": -1.560277
-        },
-        "title": "Loco Loca Nantes"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Les%20Caboteurs&query_place_id=ChIJxbyykQPsBUgR9OKfb042SF0",
-        "address": "54 Quai de la Fosse, 44000 Nantes, France",
-        "reviewsCount": 99,
-        "location": {
-            "lat": 47.2100786,
-            "lng": -1.5642125
-        },
-        "title": "Les Caboteurs"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Feeling&query_place_id=ChIJt41YVALsBUgRqbu3DOE0rQg",
@@ -1126,18 +910,6 @@
             "lng": -1.5648201
         },
         "title": "Micro Ondes"
-    },
-    {
-        "categoryName": "French restaurant",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Fossette&query_place_id=ChIJ22OE7MntBUgRNJMJiHo8QL4",
-        "address": "88 Quai de la Fosse, 44100 Nantes, France",
-        "reviewsCount": 90,
-        "location": {
-            "lat": 47.2084379,
-            "lng": -1.569873
-        },
-        "title": "La Fossette"
     },
     {
         "categoryName": "Bar",
@@ -1320,18 +1092,6 @@
         "title": "Space Shake"
     },
     {
-        "categoryName": "Tapas bar",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=Saint%20G's&query_place_id=ChIJ9ydIgbvvBUgRQuSQXl0yrSU",
-        "address": "2 Pl. de la Bourse, 44000 Nantes, France",
-        "reviewsCount": 92,
-        "location": {
-            "lat": 47.2130061,
-            "lng": -1.5592617
-        },
-        "title": "Saint G's"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20du%20Commerce&query_place_id=ChIJWWByDqjuBUgRFQK1HBYxStE",
@@ -1354,18 +1114,6 @@
             "lng": -1.5616349
         },
         "title": "L'Univers Speakeasy"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 3.1,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Coquille&query_place_id=ChIJOyIlgKjuBUgRzKiSdB-It8Y",
-        "address": "2 Pl. du Commerce, 44000 Nantes, France",
-        "reviewsCount": 220,
-        "location": {
-            "lat": 47.2135704,
-            "lng": -1.5574914
-        },
-        "title": "La Coquille"
     },
     {
         "categoryName": "Bar",
@@ -1548,18 +1296,6 @@
         "title": "Atomic's Café"
     },
     {
-        "categoryName": "Tobacco shop",
-        "totalScore": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=LE%20NARVAL%20BAR%20TABAC%20PRESSE&query_place_id=ChIJAXqwIH7sBUgR_6icDx0t7qc",
-        "address": "2 Rue du Plessis Gautron, 44100 Nantes, France",
-        "reviewsCount": 153,
-        "location": {
-            "lat": 47.2064856,
-            "lng": -1.6015295
-        },
-        "title": "LE NARVAL BAR TABAC PRESSE"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Mon%20Oncle&query_place_id=ChIJeaV0rwXsBUgRToVUTs-FZp4",
@@ -1656,18 +1392,6 @@
         "title": "Pioche - bar de jeux coopératifs"
     },
     {
-        "categoryName": "Tobacco shop",
-        "totalScore": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=TABAC%20LE%20CELTIQUE%20-%20FDJ%20-%20CBD%20-%20NICKEL%20-%20VAP'PUFF%20OUVERT%207%2F7%20ET%20TOUS%20LES%20JOURS%20F%C3%89RI%C3%89S&query_place_id=ChIJFWywI6juBUgRR-FK7H6Wc-U",
-        "address": "1 Quai de la Fosse, 44000 Nantes, France",
-        "reviewsCount": 30,
-        "location": {
-            "lat": 47.2120261,
-            "lng": -1.5595675
-        },
-        "title": "TABAC LE CELTIQUE - FDJ - CBD - NICKEL - VAP'PUFF OUVERT 7/7 ET TOUS LES JOURS FÉRIÉS"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Cascabel&query_place_id=ChIJw6XZiKXuBUgRGd1RgU_qTXE",
@@ -1678,18 +1402,6 @@
             "lng": -1.553112
         },
         "title": "Le Cascabel"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Chalet&query_place_id=ChIJXTUxYI7uBUgR99Q_kCBhpXA",
-        "address": "134 Bd des Belges, 44300 Nantes, France",
-        "reviewsCount": 57,
-        "location": {
-            "lat": 47.2354859,
-            "lng": -1.5466299
-        },
-        "title": "Le Chalet"
     },
     {
         "categoryName": "Bar",
@@ -1822,42 +1534,6 @@
             "lng": -1.5492607
         },
         "title": "Aux 3 Corbeaux"
-    },
-    {
-        "categoryName": "Tapas bar",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=LE%20CHILL%20OUT%20BAR&query_place_id=ChIJD71-KmTvBUgRugl3Q5OTm7M",
-        "address": "12 Rue de Jemmapes, 44000 Nantes, France",
-        "reviewsCount": 177,
-        "location": {
-            "lat": 47.2130135,
-            "lng": -1.5460144
-        },
-        "title": "LE CHILL OUT BAR"
-    },
-    {
-        "categoryName": "Tobacco shop",
-        "totalScore": 3.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=Pasteur&query_place_id=ChIJPwrV723sBUgRY042gf89RDg",
-        "address": "59 Bd Pasteur, 44100 Nantes, France",
-        "reviewsCount": 168,
-        "location": {
-            "lat": 47.2138113,
-            "lng": -1.5854257
-        },
-        "title": "Pasteur"
-    },
-    {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Bar%20tabac%20rond%20point%20de%20vannes&query_place_id=ChIJpVisPjvsBUgRg2NHFL8aJm8",
-        "address": "1 Bd des Anglais, 44100 Nantes, France",
-        "reviewsCount": 58,
-        "location": {
-            "lat": 47.2293851,
-            "lng": -1.5725663
-        },
-        "title": "Bar tabac rond point de vannes"
     },
     {
         "categoryName": "Bar",
@@ -2040,18 +1716,6 @@
         "title": "Décadanse"
     },
     {
-        "categoryName": "Beauty salon",
-        "totalScore": 4.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=The%20Cruz%20Beauty%20Bar&query_place_id=ChIJ36MCbqPtBUgRp8WKBaXygNU",
-        "address": "87 Bd Robert Schuman, 44300 Nantes, France",
-        "reviewsCount": 56,
-        "location": {
-            "lat": 47.2374608,
-            "lng": -1.5696349
-        },
-        "title": "The Cruz Beauty Bar"
-    },
-    {
         "categoryName": "Cocktail bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=19%3A33%20cocktail%20experience&query_place_id=ChIJHfjyylLtBUgRm0Dm_BWg7CU",
@@ -2124,18 +1788,6 @@
         "title": "Lili big Café"
     },
     {
-        "categoryName": "Tapas restaurant",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=J%C3%A9roboam%20C%C3%B4t%C3%A9%20Jardin&query_place_id=ChIJl4hn5O_tBUgRaaXeoNkZs0A",
-        "address": "6 Rue Lamoricière, 44100 Nantes, France",
-        "reviewsCount": 139,
-        "location": {
-            "lat": 47.2112466,
-            "lng": -1.5708442
-        },
-        "title": "Jéroboam Côté Jardin"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Reboot&query_place_id=ChIJ_yH4NM3tBUgRTFa4cZ5XYcU",
@@ -2146,18 +1798,6 @@
             "lng": -1.5669465
         },
         "title": "Reboot"
-    },
-    {
-        "categoryName": "Bar PMU",
-        "totalScore": 3.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Convention&query_place_id=ChIJ-wB69nDsBUgRMlhhn4lNJyM",
-        "address": "45 Rue de la Convention, 44100 Nantes, France",
-        "reviewsCount": 50,
-        "location": {
-            "lat": 47.210811,
-            "lng": -1.5896878
-        },
-        "title": "Le Convention"
     },
     {
         "categoryName": "Pub",
@@ -2220,54 +1860,6 @@
         "title": "Le Melting Potes"
     },
     {
-        "categoryName": "Nail salon",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Pose%20Beaut%C3%A9&query_place_id=ChIJSaY7bEvtBUgRFqW988CS1Og",
-        "address": "36 Av. des Plantes, 44800 Saint-Herblain, France",
-        "reviewsCount": 137,
-        "location": {
-            "lat": 47.233684,
-            "lng": -1.585957
-        },
-        "title": "La Pose Beauté"
-    },
-    {
-        "categoryName": "Beautician",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Esth%C3%A9ticienne%20%C3%A0%20domicile%20%C3%A0%20Nantes%20-%20beaut%C3%A9%20%C3%A0%20domicile&query_place_id=ChIJr-MMizWTBUgRGPM2D76efH8",
-        "address": "79 Rue des Pavillons, 44100 Nantes, France",
-        "reviewsCount": 9,
-        "location": {
-            "lat": 47.2060255,
-            "lng": -1.5948266
-        },
-        "title": "Esthéticienne à domicile à Nantes - beauté à domicile"
-    },
-    {
-        "categoryName": "Make-up artist",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Maquilleuse%20Professionnelle%20Makeup%20Artist%20Nantes&query_place_id=ChIJL_lSAHfsBUgRhMu_5hEW6QE",
-        "address": "79 Rue des Pavillons, 44100 Nantes, France",
-        "reviewsCount": 101,
-        "location": {
-            "lat": 47.2060255,
-            "lng": -1.5948266
-        },
-        "title": "Maquilleuse Professionnelle Makeup Artist Nantes"
-    },
-    {
-        "categoryName": "Bakery",
-        "totalScore": 3.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=BOULANGERIE%20ANGE&query_place_id=ChIJPS3e5qzvBUgRwyApU9RMDM0",
-        "address": "136 Rue Jules Grandjouan, 44300 Nantes, France",
-        "reviewsCount": 1201,
-        "location": {
-            "lat": 47.2501821,
-            "lng": -1.5186603
-        },
-        "title": "BOULANGERIE ANGE"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=44%20Tours&query_place_id=ChIJfRd2IMnvBUgRIHxmf3d5Uhc",
@@ -2290,42 +1882,6 @@
             "lng": -1.554891
         },
         "title": "CHEZ LOUISETTE"
-    },
-    {
-        "categoryName": "Meat dish restaurant",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=PIC%C3%92TA&query_place_id=ChIJXdjZcDDvBUgR71oW3zWuCpw",
-        "address": "10 Rue Alain Barbe Torte, 44200 Nantes, France",
-        "reviewsCount": 595,
-        "location": {
-            "lat": 47.2055456,
-            "lng": -1.556702
-        },
-        "title": "PICÒTA"
-    },
-    {
-        "categoryName": "Poke bar",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Island%20Pok%C3%A9%20Nantes%20-%20Pok%C3%A9%20Bowls&query_place_id=ChIJ6VUDGibtBUgRwMc9xrfuUGU",
-        "address": "3 Bd Léon Bureau, 44200 Nantes, France",
-        "reviewsCount": 125,
-        "location": {
-            "lat": 47.207155,
-            "lng": -1.5646782
-        },
-        "title": "Island Poké Nantes - Poké Bowls"
-    },
-    {
-        "categoryName": "Comedy club",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Micro%20Comedy%20Club&query_place_id=ChIJFQhN11rtBUgR24k6qjlStao",
-        "address": "59 Quai de la Fosse, 44000 Nantes, France",
-        "reviewsCount": 467,
-        "location": {
-            "lat": 47.209981,
-            "lng": -1.5648201
-        },
-        "title": "Micro Comedy Club"
     },
     {
         "categoryName": "Bar",
@@ -2410,18 +1966,6 @@
             "lng": -1.5549875
         },
         "title": "Mess - Bar 4h - Melodie en Sous Sol"
-    },
-    {
-        "categoryName": "Wine store",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=Nicolas%20Nantes&query_place_id=ChIJI8H0nhzsBUgRpCln--jst8o",
-        "address": "1 Rue Cassini, 44000 Nantes, France",
-        "reviewsCount": 116,
-        "location": {
-            "lat": 47.2145342,
-            "lng": -1.5656111
-        },
-        "title": "Nicolas Nantes"
     },
     {
         "categoryName": "Wine bar",
@@ -2676,18 +2220,6 @@
         "title": "Chez Marius"
     },
     {
-        "categoryName": "Brasserie",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Canop%C3%A9e&query_place_id=ChIJUdDop53tBUgR-iZPSIqSiN8",
-        "address": "16 Rue Marceau, 44000 Nantes, France",
-        "reviewsCount": 872,
-        "location": {
-            "lat": 47.2162828,
-            "lng": -1.5637082
-        },
-        "title": "Canopée"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20l'Aubette&query_place_id=ChIJW0EstB_sBUgRUjrqglFvlpo",
@@ -2746,18 +2278,6 @@
             "lng": -1.5536419
         },
         "title": "Cap's bar"
-    },
-    {
-        "categoryName": "Oyster bar restaurant",
-        "totalScore": 4.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=Oyster%20Oyster&query_place_id=ChIJSxlsRA7tBUgRQiLpllB2LXw",
-        "address": "22 Rue Lamoricière, 44100 Nantes, France",
-        "reviewsCount": 122,
-        "location": {
-            "lat": 47.2143007,
-            "lng": -1.5720129
-        },
-        "title": "Oyster Oyster"
     },
     {
         "categoryName": "Bar",
@@ -2868,18 +2388,6 @@
         "title": "LE MORSE - Bistrot Restaurant Nantes - HUITRES - LANGOUSTINES - SEAFOOD - LOBSTERROLL"
     },
     {
-        "categoryName": "Wine shop",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=L'Enquiquilleur%20Caviste%20Bar%20%C3%A0%20vin&query_place_id=ChIJ3TnbxgPvBUgR2WBwo1Ypz34",
-        "address": "144 Rue Général Buat, 44000 Nantes, France",
-        "reviewsCount": 47,
-        "location": {
-            "lat": 47.2272659,
-            "lng": -1.5427041
-        },
-        "title": "L'Enquiquilleur Caviste Bar à vin"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Alexandre%20Chollet%20BGM&query_place_id=ChIJMabcUaTuBUgR7qKrIJGQYbM",
@@ -2904,30 +2412,6 @@
         "title": "HoPoPop Café"
     },
     {
-        "categoryName": "Bar tabac",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Trach%C3%A9e&query_place_id=ChIJC9YgWKTuBUgRyrZPb6b6Huo",
-        "address": "33 Rue de Verdun, 44000 Nantes, France",
-        "reviewsCount": 17,
-        "location": {
-            "lat": 47.2165776,
-            "lng": -1.5524934
-        },
-        "title": "La Trachée"
-    },
-    {
-        "categoryName": "Brunch restaurant",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=AZA%C3%8F%20CAF%C3%89&query_place_id=ChIJu9Nz1OTvBUgR93TdFz-6jXw",
-        "address": "11 Rue des Halles, 44000 Nantes, France",
-        "reviewsCount": 253,
-        "location": {
-            "lat": 47.2156555,
-            "lng": -1.5558467
-        },
-        "title": "AZAÏ CAFÉ"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Au%20Vieux%20Quimper&query_place_id=ChIJDUKLuaXuBUgRtK-VsPP1pb4",
@@ -2950,18 +2434,6 @@
             "lng": -1.5547348
         },
         "title": "Starbucks"
-    },
-    {
-        "categoryName": "Tapas bar",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Les%20Copains%20d'Abord&query_place_id=ChIJNWa4CafuBUgRMacplT43Q6A",
-        "address": "7 Rue de l'Arche Sèche, 44000 Nantes, France",
-        "reviewsCount": 289,
-        "location": {
-            "lat": 47.2159656,
-            "lng": -1.5584738
-        },
-        "title": "Les Copains d'Abord"
     },
     {
         "categoryName": "Pub",
@@ -3000,18 +2472,6 @@
         "title": "Haiti Cherie"
     },
     {
-        "categoryName": "Comedy club",
-        "totalScore": 4.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=Smile%20Comedy%20Club&query_place_id=ChIJh7xML_XtBUgRpx3L1dBKKho",
-        "address": "Smile Comedy Club, 24 Rue Jean Jaurès, 44000 Nantes, France",
-        "reviewsCount": 165,
-        "location": {
-            "lat": 47.218484,
-            "lng": -1.5617049
-        },
-        "title": "Smile Comedy Club"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 3.3,
         "url": "https://www.google.com/maps/search/?api=1&query=New%20Factory&query_place_id=ChIJAQCsHLHuBUgRpNF1iX3Ov3k",
@@ -3022,18 +2482,6 @@
             "lng": -1.5461111
         },
         "title": "New Factory"
-    },
-    {
-        "categoryName": "Permanent make-up clinic",
-        "totalScore": 5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Sourcils%20Cils%20Ongles%20Permanent%20Makeup%20%7C%20Beaut%C3%A9%20Sur%20Mesure%20NANTES&query_place_id=ChIJXdrz6EDvBUgR3iWEaLGvUEA",
-        "address": "4 Rue des Pays-Bas, 44300 Nantes, France",
-        "reviewsCount": 26,
-        "location": {
-            "lat": 47.2555156,
-            "lng": -1.5008875
-        },
-        "title": "Sourcils Cils Ongles Permanent Makeup | Beauté Sur Mesure NANTES"
     },
     {
         "categoryName": "Bar",
@@ -3132,18 +2580,6 @@
         "title": "Le Rafiot"
     },
     {
-        "categoryName": "Beauty salon",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=Innovation%20Esth%C3%A9tique&query_place_id=ChIJTZ_VTofvBUgRCh9OSexH3GE",
-        "address": "45 Bd des Belges, 44300 Nantes, France",
-        "reviewsCount": 24,
-        "location": {
-            "lat": 47.2342017,
-            "lng": -1.5389397
-        },
-        "title": "Innovation Esthétique"
-    },
-    {
         "categoryName": "Coffee shop",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJRw_AwcruBUgRZUeKyACGsT4",
@@ -3166,18 +2602,6 @@
             "lng": -1.5733147
         },
         "title": "La Terrasse de l’Île"
-    },
-    {
-        "categoryName": "Wine store",
-        "totalScore": 4.6,
-        "url": "https://www.google.com/maps/search/?api=1&query=Nicolas%20Nantes%20Talensac&query_place_id=ChIJV6W3QaDuBUgRQHm7xkhdIzo",
-        "address": "14 Rue Talensac, 44300 Nantes, France",
-        "reviewsCount": 37,
-        "location": {
-            "lat": 47.2216101,
-            "lng": -1.5575365
-        },
-        "title": "Nicolas Nantes Talensac"
     },
     {
         "categoryName": "Bar",
@@ -3274,18 +2698,6 @@
             "lng": -1.539028
         },
         "title": "Le T Kafé"
-    },
-    {
-        "categoryName": "Cash & Carry",
-        "totalScore": 3.8,
-        "url": "https://www.google.com/maps/search/?api=1&query=METRO%20Nantes&query_place_id=ChIJnTXb8Z7vBUgRbEbWjWlEgVk",
-        "address": "ZAC de Gros, 361 Rte de Sainte-Luce B.P.32737, 44000 Nantes, France",
-        "reviewsCount": 331,
-        "location": {
-            "lat": 47.2479875,
-            "lng": -1.4967441
-        },
-        "title": "METRO Nantes"
     },
     {
         "categoryName": "Bar",
