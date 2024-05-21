@@ -253,18 +253,6 @@
     },
     {
         "categoryName": "Bar",
-        "totalScore": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Belle%20Equipe%201877%20-%20Bar%20%26%20Restaurant%20face%20%C3%A0%20l'Erdre&query_place_id=ChIJI-_5u0LuBUgRfMJtIQw9hKM",
-        "address": "10 Quai de la Jonelière, 44300 Nantes, France",
-        "reviewsCount": 1952,
-        "location": {
-            "lat": 47.2535256,
-            "lng": -1.5404802
-        },
-        "title": "La Belle Equipe 1877 - Bar & Restaurant face à l'Erdre"
-    },
-    {
-        "categoryName": "Bar",
         "totalScore": 3.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20D'Artagnan&query_place_id=ChIJQavr7FjuBUgRx8zwlGUYH2w",
         "address": "173 Rte de Saint-Joseph, 44000 Nantes, France",
@@ -406,18 +394,6 @@
             "lng": -1.5489524
         },
         "title": "Duchesse"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=L'Alsacien%20Nantes&query_place_id=ChIJrSXmkY7vBUgRY3hvwDnssSw",
-        "address": "15 All. Commandant Charcot, 44000 Nantes, France",
-        "reviewsCount": 593,
-        "location": {
-            "lat": 47.2172452,
-            "lng": -1.5453684
-        },
-        "title": "L'Alsacien Nantes"
     },
     {
         "categoryName": "Bar",
@@ -622,30 +598,6 @@
             "lng": -1.5606297
         },
         "title": "Le Caboulot"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.6,
-        "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Ile&query_place_id=ChIJcZiivLLuBUgRTZCNMEAr_D0",
-        "address": "9 Bd Gustave Roch, 44200 Nantes, France",
-        "reviewsCount": 254,
-        "location": {
-            "lat": 47.2047659,
-            "lng": -1.548425
-        },
-        "title": "Bar Ile"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20l'%C3%8Ele&query_place_id=ChIJE28knJjuBUgR0of_QihEc0k",
-        "address": "19 Quai de Versailles, 44000 Nantes, France",
-        "reviewsCount": 434,
-        "location": {
-            "lat": 47.2234021,
-            "lng": -1.5535115
-        },
-        "title": "Café de l'Île"
     },
     {
         "categoryName": "Bar",
@@ -924,18 +876,6 @@
         "title": "Le BnG / Burgers and Games"
     },
     {
-        "categoryName": "Bar",
-        "totalScore": 3.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=La%20Taverne%20Royale&query_place_id=ChIJOVZOyafuBUgRCAxk7VV3e3I",
-        "address": "1 Pl. Royale, 44000 Nantes, France",
-        "reviewsCount": 1284,
-        "location": {
-            "lat": 47.214575,
-            "lng": -1.557882
-        },
-        "title": "La Taverne Royale"
-    },
-    {
         "categoryName": "Wine bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Provence&query_place_id=ChIJX0yVu6fuBUgRHa35BxOQx-o",
@@ -1138,18 +1078,6 @@
             "lng": -1.5587659
         },
         "title": "Le Narcisse"
-    },
-    {
-        "categoryName": "Bistro",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Barons%20Perch%C3%A9s&query_place_id=ChIJvyTnkJjuBUgR6nk7YaDXHWk",
-        "address": "22 Quai de Versailles, 44000 Nantes, France",
-        "reviewsCount": 447,
-        "location": {
-            "lat": 47.22402,
-            "lng": -1.55373
-        },
-        "title": "Barons Perchés"
     },
     {
         "categoryName": "Bar",
@@ -1450,30 +1378,6 @@
             "lng": -1.600756
         },
         "title": "Café de l'Avenir"
-    },
-    {
-        "categoryName": "Brewery",
-        "totalScore": 4.2,
-        "url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Les%20Facult%C3%A9s%20-%20Tabac%20-%20Caf%C3%A9&query_place_id=ChIJN5PfUXvuBUgRoFvnyzgDfEQ",
-        "address": "2 Rue du Fresche Blanc, 44300 Nantes, France",
-        "reviewsCount": 139,
-        "location": {
-            "lat": 47.2484342,
-            "lng": -1.5518421
-        },
-        "title": "Brasserie Les Facultés - Tabac - Café"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Aux%20P'tits%20Joueurs&query_place_id=ChIJn6v2FpLuBUgRVCQvwS5DWug",
-        "address": "23 Rue du Port Guichard, 44000 Nantes, France",
-        "reviewsCount": 270,
-        "location": {
-            "lat": 47.2321157,
-            "lng": -1.5445449
-        },
-        "title": "Aux P'tits Joueurs"
     },
     {
         "categoryName": "Bar",
@@ -1788,18 +1692,6 @@
         "title": "Lili big Café"
     },
     {
-        "categoryName": "Bar",
-        "totalScore": 4.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=Reboot&query_place_id=ChIJ_yH4NM3tBUgRTFa4cZ5XYcU",
-        "address": "34 Rue Voltaire, 44000 Nantes, France",
-        "reviewsCount": 40,
-        "location": {
-            "lat": 47.2116133,
-            "lng": -1.5669465
-        },
-        "title": "Reboot"
-    },
-    {
         "categoryName": "Pub",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Buck%20Mulligan's&query_place_id=ChIJ11lU-aTuBUgR9GOyOpQwbG8",
@@ -2098,18 +1990,6 @@
             "lng": -1.5571355
         },
         "title": "The Cornishman"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=L'Epicurien%20-%20Restaurant%20Nantes&query_place_id=ChIJx-JmR6nvBUgRAK3rpQT23Q0",
-        "address": "est Entreprises Centre De Gros, 1 Rue du Benelux, 44300 Nantes, France",
-        "reviewsCount": 499,
-        "location": {
-            "lat": 47.2541465,
-            "lng": -1.4999505
-        },
-        "title": "L'Epicurien - Restaurant Nantes"
     },
     {
         "categoryName": "Cocktail bar",
@@ -2412,18 +2292,6 @@
         "title": "HoPoPop Café"
     },
     {
-        "categoryName": "Bar",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Au%20Vieux%20Quimper&query_place_id=ChIJDUKLuaXuBUgRtK-VsPP1pb4",
-        "address": "10 Rue de la Baclerie, 44000 Nantes, France",
-        "reviewsCount": 3541,
-        "location": {
-            "lat": 47.215265,
-            "lng": -1.5533011
-        },
-        "title": "Au Vieux Quimper"
-    },
-    {
         "categoryName": "Coffee shop",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJxaMJ16XuBUgRAo1FFGf8RcQ",
@@ -2544,18 +2412,6 @@
         "title": "Dukes Bar"
     },
     {
-        "categoryName": "Brewery",
-        "totalScore": 3.9,
-        "url": "https://www.google.com/maps/search/?api=1&query=F%C3%A9lix&query_place_id=ChIJt6QaA7ruBUgRfvAVaJfrVi8",
-        "address": "1 Rue Lefèvre Utile, 44000 Nantes, France",
-        "reviewsCount": 624,
-        "location": {
-            "lat": 47.2143108,
-            "lng": -1.5436197
-        },
-        "title": "Félix"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Yum&query_place_id=ChIJazLAtzHvBUgRKokQ6sLR964",
@@ -2614,18 +2470,6 @@
             "lng": -1.5515455
         },
         "title": "Le Bain Rouge"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Manoir%20De%20La%20R%C3%A9gate&query_place_id=ChIJL_JUx83xBUgRL-TkTBCMoI4",
-        "address": "155 Rte de Gachet, 44300 Nantes, France",
-        "reviewsCount": 368,
-        "location": {
-            "lat": 47.293612,
-            "lng": -1.5263892
-        },
-        "title": "Le Manoir De La Régate"
     },
     {
         "categoryName": "Bar",
