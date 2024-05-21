@@ -1,6 +1,5 @@
 [
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Titanic&query_place_id=ChIJb3fdIn7sBUgR72qEX3X9A4E",
         "address": "21 Bd Jean Moulin, 44100 Nantes, France",
@@ -12,7 +11,6 @@
         "title": "Le Titanic"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Le%20Cercle%20Rouge%20-%20Nantes&query_place_id=ChIJ1WG1hKbuBUgRdMFIJzmT0Kg",
         "address": "27 Rue des Carmes, 44000 Nantes, France",
@@ -24,7 +22,6 @@
         "title": "Bar Le Cercle Rouge - Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Tabarnak&query_place_id=ChIJq6rORabuBUgRGOF1tdkdUqg",
         "address": "1 Rue Saint-Nicolas, 44000 Nantes, France",
@@ -36,7 +33,6 @@
         "title": "Tabarnak"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Bar%20Du%20Coin&query_place_id=ChIJ262Qt6XuBUgR37scs4tTuoI",
         "address": "21 Rue de la Juiverie, 44000 Nantes, France",
@@ -48,7 +44,6 @@
         "title": "Le Bar Du Coin"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9lirium%20Caf%C3%A9&query_place_id=ChIJsYwE96_uBUgRoSb2C8QnM8E",
         "address": "bar le Delirium, 19 All. Baco, 44000 Nantes, France",
@@ -60,7 +55,6 @@
         "title": "Délirium Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20R%C3%A9serve&query_place_id=ChIJeTIeT6buBUgRqtSjWSK4RmA",
         "address": "8 Rue Saint-Nicolas, 44000 Nantes, France",
@@ -72,7 +66,6 @@
         "title": "La Réserve"
     },
     {
-        "categoryName": "Irish pub",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Fleming's%20Irish%20Pub%20-%20Bar%20%C3%A0%20Whisky&query_place_id=ChIJW2pTm6buBUgRGivWLzPqp_w",
         "address": "22 Rue des Carmes, 44000 Nantes, France",
@@ -84,7 +77,6 @@
         "title": "Fleming's Irish Pub - Bar à Whisky"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=4.44%20Bar%20Lounge&query_place_id=ChIJN-pBLqbuBUgRZWnsZiDgwNk",
         "address": "4 Rue du Couëdic, 44000 Nantes, France",
@@ -96,7 +88,6 @@
         "title": "4.44 Bar Lounge"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Perrok'&query_place_id=ChIJ3a5tu6XuBUgRui8wuieQ-0U",
         "address": "2 Rue de la Baclerie, 44000 Nantes, France",
@@ -108,7 +99,6 @@
         "title": "Le Perrok'"
     },
     {
-        "categoryName": "Live music bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Live%20Bar&query_place_id=ChIJh6R5I6XuBUgRQa2twZRlhuw",
         "address": "7 Rue des États, 44000 Nantes, France",
@@ -120,7 +110,6 @@
         "title": "The Live Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Ruin%20Bar%20Bouffay&query_place_id=ChIJO4HtQ6nvBUgR5zvi4QWEuEg",
         "address": "13 All. du Port Maillard, 44000 Nantes, France",
@@ -132,7 +121,6 @@
         "title": "Ruin Bar Bouffay"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Rabelais&query_place_id=ChIJP_tbwqXuBUgReWPCfxsHNrQ",
         "address": "3 Rue du Bouffay, 44000 Nantes, France",
@@ -144,7 +132,6 @@
         "title": "Le Rabelais"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=GUEST%20Bar%20%26%20Food&query_place_id=ChIJfcMW6NjvBUgRLC83S9GQqlI",
         "address": "Place Bretagne, 5 Rue Mercœur, 44000 Nantes, France",
@@ -156,7 +143,6 @@
         "title": "GUEST Bar & Food"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Au%20Plaiz'Here%20!&query_place_id=ChIJEZwjH73uBUgR3Z55X2v7h1g",
         "address": "54 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -168,7 +154,6 @@
         "title": "Au Plaiz'Here !"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Stupid%20Dog&query_place_id=ChIJDbGL5aTuBUgR_V4K5zdLOq0",
         "address": "4 Rue des Carmélites, 44000 Nantes, France",
@@ -180,7 +165,6 @@
         "title": "The Stupid Dog"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Lune%20Froide&query_place_id=ChIJExTc3BDvBUgReV8vC96CWHs",
         "address": "21 Quai de Versailles, 44000 Nantes, France",
@@ -192,7 +176,6 @@
         "title": "Lune Froide"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20papote&query_place_id=ChIJEcZly1nvBUgRDeKH6Vj7JI4",
         "address": "1 Rue de la Papotière, 44300 Nantes, France",
@@ -204,7 +187,6 @@
         "title": "La papote"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Rab-MDL&query_place_id=ChIJ2Ye_wIDvBUgRlmAJFAGoUE8",
         "address": "44300 Nantes, France",
@@ -216,7 +198,6 @@
         "title": "Le Rab-MDL"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Place%20aux%20Vins&query_place_id=ChIJN5I9kn7vBUgRYc3n8XUyOj4",
         "address": "8 Pl. du Vieux Doulon, 44300 Nantes, France",
@@ -228,7 +209,6 @@
         "title": "Place aux Vins"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20-%20Mercure%20Nantes%20Centre%20Gare&query_place_id=ChIJY2iDp7nuBUgRhpF-T3Ov6qU",
         "address": "51 Quai de Malakoff, 44000 Nantes, France",
@@ -240,7 +220,6 @@
         "title": "Bar - Mercure Nantes Centre Gare"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Mamazette&query_place_id=ChIJuSLPwLvuBUgRenV8oOxMGlw",
         "address": "14 All. Commandant Charcot, 44000 Nantes, France",
@@ -252,7 +231,6 @@
         "title": "Chez Mamazette"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Barberousse%20Nantes&query_place_id=ChIJfTMxtZnvBUgRi81f51xGO5U",
         "address": "91 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -264,7 +242,6 @@
         "title": "Barberousse Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Mojo&query_place_id=ChIJdwUR3bzuBUgRO3G4C7G20dM",
         "address": "79 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -276,7 +253,6 @@
         "title": "Le Mojo"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Joffre%20Pub&query_place_id=ChIJLUrFxLzuBUgR8izYkj6Lnbo",
         "address": "86 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -288,7 +264,6 @@
         "title": "Le Joffre Pub"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Gambetta&query_place_id=ChIJrbwoZL7uBUgRxkpl2krqtng",
         "address": "86 Rue Gambetta, 44000 Nantes, France",
@@ -300,7 +275,6 @@
         "title": "Le Gambetta"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Forge%20-%20Bar%20M%C3%A9di%C3%A9val&query_place_id=ChIJJw7XETDvBUgRrU5EpShfUdE",
         "address": "43 Rue Gambetta, 44000 Nantes, France",
@@ -312,7 +286,6 @@
         "title": "La Forge - Bar Médiéval"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Petit%20Baigneur%20Nantes&query_place_id=ChIJlz1fO7juBUgRyNmEX_SECtQ",
         "address": "Gare de Nantes Sud, Bassin Saint-Félix, Quai de Malakoff, 44000 Nantes, France",
@@ -324,7 +297,6 @@
         "title": "Le Petit Baigneur Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20dr%C3%B4le%20de%20barge&query_place_id=ChIJBVu3GZbvBUgRbXhGhxL6gwQ",
         "address": "Quai de Malakoff, 44000 Nantes, France",
@@ -336,7 +308,6 @@
         "title": "La drôle de barge"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Ubik&query_place_id=ChIJ3bxHLCTvBUgR1yjMJtbrb4k",
         "address": "43 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -348,7 +319,6 @@
         "title": "L'Ubik"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Duchesse&query_place_id=ChIJmftMxurvBUgR8RRI0JYwSIg",
         "address": "87 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -360,7 +330,6 @@
         "title": "Duchesse"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Caf%C3%A9%20du%20Bouffay&query_place_id=ChIJ1SSWYvXvBUgRUMWfPTZSMJo",
         "address": "2 Pl. du Bouffay, 44000 Nantes, France",
@@ -372,7 +341,6 @@
         "title": "Le Café du Bouffay"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Dbka&query_place_id=ChIJudyxoqXuBUgRSblj6XCM-Mc",
         "address": "1 Pl. du Bouffay, 44036 Nantes, France",
@@ -384,7 +352,6 @@
         "title": "Dbka"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Lulu&query_place_id=ChIJnR2soqXuBUgRg9G66cSA8jY",
         "address": "1 Pl. du Bouffay, 44000 Nantes, France",
@@ -396,7 +363,6 @@
         "title": "Chez Lulu"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Shaft&query_place_id=ChIJDW4hCKXuBUgRDKqh8TfMS3g",
         "address": "14 Rue des Petites Écuries, 44000 Nantes, France",
@@ -408,7 +374,6 @@
         "title": "Le Shaft"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Coup%20de%20Pompe&query_place_id=ChIJi_IEEaXuBUgRuDyPASa9_dA",
         "address": "Rue Paul Dubois, 44000 Nantes, France",
@@ -420,7 +385,6 @@
         "title": "Le Coup de Pompe"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Papa%20Doble%20-%20Bar%20%C3%A0%20rhum%20%26%20cocktails%20Nantes&query_place_id=ChIJcX8vJLzvBUgREiqUq2c56yY",
         "address": "4 Rue Saint-Léonard, 44000 Nantes, France",
@@ -432,7 +396,6 @@
         "title": "Papa Doble - Bar à rhum & cocktails Nantes"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Appart%20des%20Anges&query_place_id=ChIJA3d_AaXuBUgRjv88DwRVBL8",
         "address": "8 Rue de l'Emery, 44000 Nantes, France",
@@ -444,7 +407,6 @@
         "title": "L'Appart des Anges"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Pti%20Zinc&query_place_id=ChIJ51x0AKXuBUgRna4iiJeKAik",
         "address": "10 Rue de l'Emery, 44000 Nantes, France",
@@ -456,7 +418,6 @@
         "title": "Le Pti Zinc"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Poum%20Poum%20T'chak&query_place_id=ChIJt1iNVaTuBUgRrupl_yGluY4",
         "address": "19 Rue du Château, 44000 Nantes, France",
@@ -468,7 +429,6 @@
         "title": "Poum Poum T'chak"
     },
     {
-        "categoryName": "Girl bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=LE%20CAPRICE&query_place_id=ChIJcfyGX03pBUgRGduqccDy0bg",
         "address": "45 Bd Victor Hugo, 44200 Nantes, France",
@@ -480,7 +440,6 @@
         "title": "LE CAPRICE"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Peste%20et%20Chipie&query_place_id=ChIJo9__ovbpBUgRvVS8e6wst5M",
         "address": "16 Bd Joliot Curie, 44200 Nantes, France",
@@ -492,7 +451,6 @@
         "title": "Chez Peste et Chipie"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Saint%20Jack%20Aurelia&query_place_id=ChIJ9zlQKUjpBUgRZbxVHMyz2rE",
         "address": "78 Rue Saint-Jacques, 44200 Nantes, France",
@@ -504,7 +462,6 @@
         "title": "Le Saint Jack Aurelia"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=LA%20PLAISIR&query_place_id=ChIJrU5W7OTpBUgRD0y64FMESTI",
         "address": "57 Bd Victor Hugo, 44200 Nantes, France",
@@ -516,7 +473,6 @@
         "title": "LA PLAISIR"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Mon%20Bistrot&query_place_id=ChIJV1CKhkzpBUgRCyVYBw6bNhQ",
         "address": "2 Pl. Victor Mangin, 44200 Nantes, France",
@@ -528,7 +484,6 @@
         "title": "Mon Bistrot"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Sarl%20Miami&query_place_id=ChIJhz6cAU3pBUgRkvs_1PV6ZE4",
         "address": "12 Bd Adolphe Billault, 44200 Nantes, France",
@@ -540,7 +495,6 @@
         "title": "Sarl Miami"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Lev%D0%AFette%20Caf%C3%A9%20Nantes&query_place_id=ChIJtzVq5gjsBUgRj3lCvSki4W4",
         "address": "Parc des chantiers, Pont 1 du Nantilus, 30 Quai Fernand Crouan, 44200 Nantes, France",
@@ -552,7 +506,6 @@
         "title": "LevЯette Café Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Caboulot&query_place_id=ChIJ9z6Z7JXtBUgRC-g4XvtaDPM",
         "address": "45 Rue la Tour d'Auvergne, 44200 Nantes, France",
@@ -564,7 +517,6 @@
         "title": "Le Caboulot"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Guinguette%20du%20Belv%C3%A9d%C3%A8re&query_place_id=ChIJTcLw0z7vBUgRZk7OiI8qf8U",
         "address": "23 Bd Gaston Doumergue, 44200 Nantes, France",
@@ -576,7 +528,6 @@
         "title": "La Guinguette du Belvédère"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Ca%C3%B1as%20y%20Tapas%20Nantes&query_place_id=ChIJjaG9Fj_tBUgRtMO7pmSzFUY",
         "address": "Parc des Chantiers, 7 Rue René Siegfried, 44200 Nantes, France",
@@ -588,7 +539,6 @@
         "title": "Cañas y Tapas Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Absence&query_place_id=ChIJGQAAAEvpBUgRmOPSOgmwQJ0",
         "address": "6 Quai François Mitterrand, 44200 Nantes, France",
@@ -600,7 +550,6 @@
         "title": "L'Absence"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20House&query_place_id=ChIJE-5dzLzuBUgRasvIKddcfXI",
         "address": "4 Rue Lebrun, 44000 Nantes, France",
@@ -612,7 +561,6 @@
         "title": "The Coffee House"
     },
     {
-        "categoryName": "Irish pub",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Dock%20Yard&query_place_id=ChIJLWrCS_brBUgR02STD-iAdTQ",
         "address": "Quai des Antilles, 44200 Nantes, France",
@@ -624,7 +572,6 @@
         "title": "Le Dock Yard"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=Australian%20Caf%C3%A9&query_place_id=ChIJLWrCS_brBUgRTSrTWbGTtBE",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -636,7 +583,6 @@
         "title": "Australian Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Rond%20Point%20Cafe&query_place_id=ChIJy6rbS_brBUgRXzWPvQ0FDXg",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -648,7 +594,6 @@
         "title": "Le Rond Point Cafe"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.2,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Calle&query_place_id=ChIJ4VGq7PbrBUgR8bszEo3d1hY",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -660,7 +605,6 @@
         "title": "La Calle"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20barouf&query_place_id=ChIJ--yGbXLvBUgRNABZuLu9H4w",
         "address": "36 Rue Maréchal Joffre, 44000 Nantes, France",
@@ -672,7 +616,6 @@
         "title": "Le barouf"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Platanes&query_place_id=ChIJbyMYq7juBUgRcIOdVor_qM4",
         "address": "17 Bd de Stalingrad, 44000 Nantes, France",
@@ -684,7 +627,6 @@
         "title": "Les Platanes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=V%20and%20B%20Nantes&query_place_id=ChIJhZjDR73vBUgRr7oh2heUW7w",
         "address": "22 Rue du Marché Commun, 44300 Nantes, France",
@@ -696,7 +638,6 @@
         "title": "V and B Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Poincare&query_place_id=ChIJuRUWbWrsBUgRHVeffGFJEoE",
         "address": "144 Bd de la Fraternité, 44100 Nantes, France",
@@ -708,7 +649,6 @@
         "title": "Le Poincare"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=L'annexe&query_place_id=ChIJ8a5-E6TvBUgRk1AXPuNonPU",
         "address": "3 Rue Louis Blanc, 44200 Nantes, France",
@@ -720,7 +660,6 @@
         "title": "L'annexe"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Monsieur%20Machin&query_place_id=ChIJWZ24m6buBUgRijX7fXWNssg",
         "address": "5 Rue Saint-Léonard, 44000 Nantes, France",
@@ -732,7 +671,6 @@
         "title": "Monsieur Machin"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Drink%20Club&query_place_id=ChIJn3AkPgTsBUgRA-xmwPxaEl8",
         "address": "72 Quai de la Fosse, 44000 Nantes, France",
@@ -744,7 +682,6 @@
         "title": "Drink Club"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Trinquette&query_place_id=ChIJ9X4BJKjuBUgRp4W5zrVLnDk",
         "address": "3 Quai de la Fosse, 44000 Nantes, France",
@@ -756,7 +693,6 @@
         "title": "La Trinquette"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%2091&query_place_id=ChIJVVVZqgjsBUgR4jDSFrR4lLA",
         "address": "91 Quai de la Fosse, 44100 Nantes, France",
@@ -768,7 +704,6 @@
         "title": "Le 91"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Feeling&query_place_id=ChIJt41YVALsBUgRqbu3DOE0rQg",
         "address": "37 Quai de la Fosse, 44000 Nantes, France",
@@ -780,7 +715,6 @@
         "title": "Le Feeling"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Micro%20Barrr&query_place_id=ChIJRWpfO_btBUgRdf0PVXySn_M",
         "address": "61 Quai de la Fosse, 44000 Nantes, France",
@@ -792,7 +726,6 @@
         "title": "Micro Barrr"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Koloc's&query_place_id=ChIJhRvfiwPsBUgRTtvMnhS99qc",
         "address": "59 Quai de la Fosse, 44000 Nantes, France",
@@ -804,7 +737,6 @@
         "title": "Les Koloc's"
     },
     {
-        "categoryName": "Gay bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Autre%20Quai&query_place_id=ChIJM6gaEwTsBUgR079DHlnaRQk",
         "address": "68 Quai de la Fosse, 44100 Nantes, France",
@@ -816,7 +748,6 @@
         "title": "L'Autre Quai"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Micro%20Ondes&query_place_id=ChIJy09g3pntBUgR8iu0BgURwGo",
         "address": "59 Quai de la Fosse, 44000 Nantes, France",
@@ -828,7 +759,6 @@
         "title": "Micro Ondes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20BnG%20%2F%20Burgers%20and%20Games&query_place_id=ChIJd2-HmI_vBUgRY1zTqo9-I1k",
         "address": "29 Rue Dufour, 44000 Nantes, France",
@@ -840,7 +770,6 @@
         "title": "Le BnG / Burgers and Games"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Provence&query_place_id=ChIJX0yVu6fuBUgRHa35BxOQx-o",
         "address": "2 Rue Vauban, 44000 Nantes, France",
@@ -852,7 +781,6 @@
         "title": "La Provence"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20du%20Passage&query_place_id=ChIJe4qtS6buBUgRqVYeBwDnJRc",
         "address": "1 Pl. Félix Fournier, 44000 Nantes, France",
@@ -864,7 +792,6 @@
         "title": "Café du Passage"
     },
     {
-        "categoryName": "Gay bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Montecito&query_place_id=ChIJ65UtT6buBUgR_bnuWVJYZmE",
         "address": "6 All. Duquesne, 44000 Nantes, France",
@@ -876,7 +803,6 @@
         "title": "Le Montecito"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=CafK&query_place_id=ChIJoyxpJ6TuBUgR3ZpqcNacnwg",
         "address": "2 Rue Bossuet, 44000 Nantes, France",
@@ -888,7 +814,6 @@
         "title": "CafK"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20Landru&query_place_id=ChIJ4cqj4BzsBUgRfrbTH0dvAM8",
         "address": "7 Rue Lekain, 44000 Nantes, France",
@@ -900,7 +825,6 @@
         "title": "Café Landru"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Petit%20Marais&query_place_id=ChIJkxJUvKjuBUgRhowHd7vgELA",
         "address": "15 Rue Kervégan, 44000 Nantes, France",
@@ -912,7 +836,6 @@
         "title": "Le Petit Marais"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Santeuil%20Caf%C3%A9&query_place_id=ChIJAQDQrALsBUgRiw6gyn56eyk",
         "address": "5 Rue Santeuil, 44000 Nantes, France",
@@ -924,7 +847,6 @@
         "title": "Santeuil Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20100%20P%E2%80%99&query_place_id=ChIJ-cx_vKfuBUgR-O5WpFfVr_c",
         "address": "3 Rue de l'Échelle, 44000 Nantes, France",
@@ -936,7 +858,6 @@
         "title": "Le 100 P’"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Canaille%20Caf%C3%A9&query_place_id=ChIJEwTlZsvvBUgR5zKzBOeOmY0",
         "address": "6 allée d'Orléans, Cr des 50 Otages, 44000 Nantes, France",
@@ -948,7 +869,6 @@
         "title": "Canaille Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Meltdown%20Nantes&query_place_id=ChIJCVgm4kjvBUgRqf7wkhyd_2Y",
         "address": "15 All. des Tanneurs, 44000 Nantes, France",
@@ -960,7 +880,6 @@
         "title": "Meltdown Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Maestro&query_place_id=ChIJ9ynDm6buBUgRz0VwXGIfpxs",
         "address": "5 All. des Tanneurs, 44000 Nantes, France",
@@ -972,7 +891,6 @@
         "title": "Le Maestro"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Plein%20Sud&query_place_id=ChIJMa_bNLvuBUgR5EUjsQ-6ul4",
         "address": "2 Rue Premion, 44000 Nantes, France",
@@ -984,7 +902,6 @@
         "title": "Bar Plein Sud"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Space%20Shake&query_place_id=ChIJnz30SQvvBUgRPs44xdhA3eM",
         "address": "9 Pl. du Commerce, 44000 Nantes, France",
@@ -996,7 +913,6 @@
         "title": "Space Shake"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Univers%20Speakeasy&query_place_id=ChIJWYW3zgLsBUgRfWMcXOG13K8",
         "address": "16 Rue Jean Jacques Rousseau, 44000 Nantes, France",
@@ -1008,7 +924,6 @@
         "title": "L'Univers Speakeasy"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Reser'bar%20Dogs&query_place_id=ChIJ5QTJK_bvBUgRaPFRGlg1jUc",
         "address": "7 Pl. de la Bourse, 44000 Nantes, France",
@@ -1020,7 +935,6 @@
         "title": "Reser'bar Dogs"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Narcisse&query_place_id=ChIJ_YcJEqfuBUgRQhr8wspaSA8",
         "address": "8 Rue Guépin, 44000 Nantes, France",
@@ -1032,7 +946,6 @@
         "title": "Le Narcisse"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=GrasBon&query_place_id=ChIJ0WkWdInvBUgRusaItYd1r2k",
         "address": "18 Quai de Versailles, 44000 Nantes, France",
@@ -1044,7 +957,6 @@
         "title": "GrasBon"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Casa%20-%20P%C3%A9niche%20Tropicale&query_place_id=ChIJndwoOODvBUgR8EvJArv1YrQ",
         "address": "4 Quai Henri Barbusse, 44000 Nantes, France",
@@ -1056,7 +968,6 @@
         "title": "La Casa - Péniche Tropicale"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Sir%20Carmes&query_place_id=ChIJ74vGiKbuBUgRIDvqroMou4E",
         "address": "19 Rue des Carmes, 44000 Nantes, France",
@@ -1068,7 +979,6 @@
         "title": "Les Sir Carmes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Bateau-Lavoir&query_place_id=ChIJK-oLVKLuBUgRov5J0w88ma4",
         "address": "Quai Ceineray, 44000 Nantes, France",
@@ -1080,7 +990,6 @@
         "title": "Bateau-Lavoir"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Labo&query_place_id=ChIJRSYq4qPuBUgREMeGE407ezY",
         "address": "19 Rue Léon Blum, 44000 Nantes, France",
@@ -1092,7 +1001,6 @@
         "title": "Le Labo"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Les%20Berthom&query_place_id=ChIJa0ta_6XuBUgRckSMx5lOiKQ",
         "address": "1 bis Cr Olivier de Clisson, 44000 Nantes, France",
@@ -1104,7 +1012,6 @@
         "title": "Les Berthom"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=KITKAT%20Bar&query_place_id=ChIJWYizq6XuBUgRcY4A0wf6fXA",
         "address": "3 Rue de la Juiverie, 44000 Nantes, France",
@@ -1116,7 +1023,6 @@
         "title": "KITKAT Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Safe%20Place&query_place_id=ChIJhTSaBMPvBUgRcrTLVFJXT-Y",
         "address": "11 Chau. de la Madeleine, 44000 Nantes, France",
@@ -1128,7 +1034,6 @@
         "title": "Safe Place"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Prohibition&query_place_id=ChIJt9-YuaXuBUgRLYlJdl_OPt4",
         "address": "7 Rue de la Baclerie, 44000 Nantes, France",
@@ -1140,7 +1045,6 @@
         "title": "Bar Prohibition"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Maximo%20Club&query_place_id=ChIJtdcWGajuBUgRU2_aAKadz14",
         "address": "11 Pl. de la Bourse, 44000 Nantes, France",
@@ -1152,7 +1056,6 @@
         "title": "Maximo Club"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Novelty%20Cafe&query_place_id=ChIJ5eFeuWjvBUgRtXzWSbqkGFQ",
         "address": "4 All. de l'Île Gloriette, 44000 Nantes, France",
@@ -1164,7 +1067,6 @@
         "title": "Novelty Cafe"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Atomic's%20Caf%C3%A9&query_place_id=ChIJw4NV5HDvBUgRDWslAUn0eMA",
         "address": "6 Cr Olivier de Clisson, 44000 Nantes, France",
@@ -1176,7 +1078,6 @@
         "title": "Atomic's Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Mon%20Oncle&query_place_id=ChIJeaV0rwXsBUgRToVUTs-FZp4",
         "address": "16 Rue d'Alger, 44100 Nantes, France",
@@ -1188,7 +1089,6 @@
         "title": "Bar Mon Oncle"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Mac%20-%20Irish%20Pub%20Nantes&query_place_id=ChIJAYyIrQLsBUgRyphp9WKrvdE",
         "address": "1 Rue Rameau, 44000 Nantes, France",
@@ -1200,7 +1100,6 @@
         "title": "Le Mac - Irish Pub Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Davenet%20Marc&query_place_id=ChIJX_xJuJ_uBUgRoxL_l-JfPyA",
         "address": "71 Rue de Bel air, 44000 Nantes, France",
@@ -1212,7 +1111,6 @@
         "title": "Davenet Marc"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Bootlegger&query_place_id=ChIJ_7XbuqjuBUgRZS3LOJHHnx8",
         "address": "13 Rue Kervégan, 44000 Nantes, France",
@@ -1224,7 +1122,6 @@
         "title": "Bootlegger"
     },
     {
-        "categoryName": "Live music bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Zygobar&query_place_id=ChIJXT4417HuBUgR999rsypNqoE",
         "address": "35 Rue des Olivettes, 44000 Nantes, France",
@@ -1236,7 +1133,6 @@
         "title": "Zygobar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Bistro%20Le%20Parisien&query_place_id=ChIJj3fpuqHuBUgRPFeBN9YTz8s",
         "address": "12 Rue Talensac, 44000 Nantes, France",
@@ -1248,7 +1144,6 @@
         "title": "Bistro Le Parisien"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Caf%C3%A9%20du%20Matin&query_place_id=ChIJ0Vz9QKDuBUgRSlDs9AvGRrI",
         "address": "10 Rue Talensac, 44000 Nantes, France",
@@ -1260,7 +1155,6 @@
         "title": "Le Café du Matin"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Pioche%20-%20bar%20de%20jeux%20coop%C3%A9ratifs&query_place_id=ChIJVbQ5XKDuBUgRR8tWROHbJNw",
         "address": "10 Rue de Bel air, 44000 Nantes, France",
@@ -1272,7 +1166,6 @@
         "title": "Pioche - bar de jeux coopératifs"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Ball%20Pop%20'&query_place_id=ChIJb4rgpEnsBUgRGwpoAnEhvz8",
         "address": "91 Rte de Vannes, 44800 Saint-Herblain, France",
@@ -1284,7 +1177,6 @@
         "title": "The Ball Pop '"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Mirage&query_place_id=ChIJ3eH9XXDsBUgRalp6itngUNg",
         "address": "38 Rue de la Convention, 44000 Nantes, France",
@@ -1296,7 +1188,6 @@
         "title": "Le Mirage"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20P'tit%20Caf%C3%A9%20(Bar%2C%20Snack)&query_place_id=ChIJNR9ftXfsBUgRlUm6zlJtjes",
         "address": "44100 Nantes, France",
@@ -1308,7 +1199,6 @@
         "title": "Le P'tit Café (Bar, Snack)"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20l'Avenir&query_place_id=ChIJs1cPF37sBUgRLPGaNOlVGS4",
         "address": "4 Rue du Petit Verger, 44100 Nantes, France",
@@ -1320,7 +1210,6 @@
         "title": "Café de l'Avenir"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Game%20Over&query_place_id=ChIJX5dXzrzuBUgRFsAPygei1c4",
         "address": "1 Rue Lebrun, 44000 Nantes, France",
@@ -1332,7 +1221,6 @@
         "title": "Game Over"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Al%C3%A9a&query_place_id=ChIJRdp5Lm7tBUgRCt_OdY81skc",
         "address": "32 Rue Deshoulières, 44000 Nantes, France",
@@ -1344,7 +1232,6 @@
         "title": "L'Aléa"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Juste%20%C3%A0%20c%C3%B4t%C3%A9&query_place_id=ChIJV8LWXf_tBUgRtWJ1Pdwi-dk",
         "address": "64 Bd Pasteur, 44100 Nantes, France",
@@ -1356,7 +1243,6 @@
         "title": "Juste à côté"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=BB'O&query_place_id=ChIJR_EyhEPvBUgRUJyrLTJOkF8",
         "address": "16 Rue Petite Biesse, 44200 Nantes, France",
@@ -1368,7 +1254,6 @@
         "title": "BB'O"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Aux%203%20Corbeaux&query_place_id=ChIJvTv9JMTvBUgR1mnJb39uWUs",
         "address": "8 Rue Grande Biesse, 44200 Nantes, France",
@@ -1380,7 +1265,6 @@
         "title": "Aux 3 Corbeaux"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Corneille&query_place_id=ChIJ7S4vJh3sBUgRXbilNUXS164",
         "address": "24 Rue Scribe, 44000 Nantes, France",
@@ -1392,7 +1276,6 @@
         "title": "Le Corneille"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20La%20Perle&query_place_id=ChIJ86TK0KfuBUgR86zYnLmO_JM",
         "address": "8 Rue du Port au Vin, 44000 Nantes, France",
@@ -1404,7 +1287,6 @@
         "title": "Café de La Perle"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Tiki%20bar&query_place_id=ChIJw-LtlajuBUgRWfm4FFYA-iI",
         "address": "17 Rue Kervégan, 44000 Nantes, France",
@@ -1416,7 +1298,6 @@
         "title": "Le Tiki bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Strogoff%20Bar&query_place_id=ChIJz12ecbHtBUgROG5uJLeyA_8",
         "address": "9 Rue de l'Héronnière, 44000 Nantes, France",
@@ -1428,7 +1309,6 @@
         "title": "Strogoff Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Le%20Bel%20Air&query_place_id=ChIJtZx-t5_uBUgRO4-g_dkwVt4",
         "address": "73 Rue de Bel air, 44000 Nantes, France",
@@ -1440,7 +1320,6 @@
         "title": "Bar Le Bel Air"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.9,
         "url": "https://www.google.com/maps/search/?api=1&query=NOMAD&query_place_id=ChIJNz_cx43tBUgR0Q-ferKVpp0",
         "address": "5 Rue Santeuil, 44000 Nantes, France",
@@ -1452,7 +1331,6 @@
         "title": "NOMAD"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20BLOCK%20graslin&query_place_id=ChIJf8UouALsBUgRd8Qa3ma9KlM",
         "address": "2 Rue de l'Héronnière, 44000 Nantes, France",
@@ -1464,7 +1342,6 @@
         "title": "Le BLOCK graslin"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Mariole&query_place_id=ChIJp-hgT0TtBUgRkcblUw3mx-s",
         "address": "11 Rue Jean Jacques Rousseau, 44000 Nantes, France",
@@ -1476,7 +1353,6 @@
         "title": "Mariole"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20graslin%20de%20folie&query_place_id=ChIJ1-HZKgPsBUgRx0gB43Bp0QQ",
         "address": "1 Rue Racine, 44000 Nantes, France",
@@ -1488,7 +1364,6 @@
         "title": "Le graslin de folie"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Salut%20Marcel&query_place_id=ChIJ7bbUzTHtBUgROUf8JkQ9eZM",
         "address": "3 Rue Rameau, 44000 Nantes, France",
@@ -1500,7 +1375,6 @@
         "title": "Salut Marcel"
     },
     {
-        "categoryName": "Live music bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=L%20R%20de%20Rien&query_place_id=ChIJE3i8lajuBUgRgH2CPHzhQUw",
         "address": "17 Rue Kervégan, 44000 Nantes, France",
@@ -1512,7 +1386,6 @@
         "title": "L R de Rien"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20les%20Gar%C3%A7ons&query_place_id=ChIJ98Y5-OPtBUgRwfje8HRnMOE",
         "address": "16 Rue Jean Jacques Rousseau, 44000 Nantes, France",
@@ -1524,7 +1397,6 @@
         "title": "Chez les Garçons"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Sidras&query_place_id=ChIJGUtYjtDtBUgR7pbAPWbnKNc",
         "address": "34 Mail des Chantiers, 44200 Nantes, France",
@@ -1536,7 +1408,6 @@
         "title": "Sidras"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20fer%20%C3%A0%20cheval&query_place_id=ChIJEWVDpyjsBUgRLO4FkBj83EQ",
         "address": "224 Rue Paul Bellamy, 44000 Nantes, France",
@@ -1548,7 +1419,6 @@
         "title": "Le fer à cheval"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9cadanse&query_place_id=ChIJkbDOE27vBUgRxHdswZqiI-I",
         "address": "1 Bd Henry Orrion, 44000 Nantes, France",
@@ -1560,7 +1430,6 @@
         "title": "Décadanse"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=19%3A33%20cocktail%20experience&query_place_id=ChIJHfjyylLtBUgRm0Dm_BWg7CU",
         "address": "8 Rue Voltaire, 44000 Nantes, France",
@@ -1572,7 +1441,6 @@
         "title": "19:33 cocktail experience"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Bras%20de%20Fer&query_place_id=ChIJocQxlaruBUgRABozwXZCowQ",
         "address": "20 Bd de la Prairie au Duc, 44200 Nantes, France",
@@ -1584,7 +1452,6 @@
         "title": "Bras de Fer"
     },
     {
-        "categoryName": "Beer hall",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Arlette%20Caf%C3%A9%20-%20Bar%20Rock%20%26%20Populaire&query_place_id=ChIJTVTb7nfvBUgRBmARXbqPUoI",
         "address": "12 Bd de la Prairie au Duc, 44200 Nantes, France",
@@ -1596,7 +1463,6 @@
         "title": "Arlette Café - Bar Rock & Populaire"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4t%C3%A9%20Plage&query_place_id=ChIJwyXuuKjuBUgR1Zi5qRRLcGE",
         "address": "14 Quai Turenne, 44000 Nantes, France",
@@ -1608,7 +1474,6 @@
         "title": "Côté Plage"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Scierie&query_place_id=ChIJsWYP_ajuBUgRk42qWhcy8fg",
         "address": "3 All. de l'Île Gloriette, 44000 Nantes, France",
@@ -1620,7 +1485,6 @@
         "title": "La Scierie"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Lili%20big%20Caf%C3%A9&query_place_id=ChIJx9khhrLvBUgRDWo_mAayxxI",
         "address": "17 All. Duguay Trouin, 44000 Nantes, France",
@@ -1632,7 +1496,6 @@
         "title": "Lili big Café"
     },
     {
-        "categoryName": "Pub",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Buck%20Mulligan's&query_place_id=ChIJ11lU-aTuBUgR9GOyOpQwbG8",
         "address": "12 Rue du Château, 44000 Nantes, France",
@@ -1644,7 +1507,6 @@
         "title": "Buck Mulligan's"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20doreur&query_place_id=ChIJhzdN4aTuBUgRLPJYjS8EbiI",
         "address": "2 Rue des Carmélites, 44000 Nantes, France",
@@ -1656,7 +1518,6 @@
         "title": "Le doreur"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.9,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20green%20fairy&query_place_id=ChIJeQp3jKbuBUgRyD2PkYcVrns",
         "address": "7 Rue des Trois Croissants, 44000 Nantes, France",
@@ -1668,7 +1529,6 @@
         "title": "The green fairy"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Loft%20-%20Nightclub&query_place_id=ChIJ-2_F3BzsBUgR-zzMU7gzBB0",
         "address": "9 Rue Franklin, 44000 Nantes, France",
@@ -1680,7 +1540,6 @@
         "title": "The Loft - Nightclub"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Melting%20Potes&query_place_id=ChIJx_C8oqruBUgR2oPe7hMUHsU",
         "address": "26 Bd de la Prairie au Duc, 44200 Nantes, France",
@@ -1692,7 +1551,6 @@
         "title": "Le Melting Potes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=44%20Tours&query_place_id=ChIJfRd2IMnvBUgRIHxmf3d5Uhc",
         "address": "4 Bd de la Prairie au Duc, 44200 Nantes, France",
@@ -1704,7 +1562,6 @@
         "title": "44 Tours"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=CHEZ%20LOUISETTE&query_place_id=ChIJ73BBjKvuBUgR-k9hq9oGqP4",
         "address": "1 Rue Louis Blanc, 44200 Nantes, France",
@@ -1716,7 +1573,6 @@
         "title": "CHEZ LOUISETTE"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Do%20It%20Bar&query_place_id=ChIJfwfg0kntBUgRG0QkrWet-tk",
         "address": "8 Rue de l'Hermitage, 44100 Nantes, France",
@@ -1728,7 +1584,6 @@
         "title": "Do It Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.6,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Etoile%20Private%20Club%20%7C%20Graslin&query_place_id=ChIJG0uNwhzsBUgRpoV6Y94i1UY",
         "address": "1 Rue Buffon, 44000 Nantes, France",
@@ -1740,7 +1595,6 @@
         "title": "L'Etoile Private Club | Graslin"
     },
     {
-        "categoryName": "Beer hall",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Amere&query_place_id=ChIJI2NIPRjvBUgRF0zf39z7QAc",
         "address": "16 Rue de Budapest, 44000 Nantes, France",
@@ -1752,7 +1606,6 @@
         "title": "Amere"
     },
     {
-        "categoryName": "Beer hall",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Amere&query_place_id=ChIJI2NIPRjvBUgRF0zf39z7QAc",
         "address": "16 Rue de Budapest, 44000 Nantes, France",
@@ -1764,7 +1617,6 @@
         "title": "Amere"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Trempolino&query_place_id=ChIJ9Z75QHHsBUgR-zP_isGbDNk",
         "address": "6 Bd Léon Bureau, 44200 Nantes, France",
@@ -1776,7 +1628,6 @@
         "title": "Trempolino"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Soon%20Caf%C3%A9&query_place_id=ChIJ0WGBD6juBUgR1wYGj0sLFMI",
         "address": "13 Pl. du Commerce, 44000 Nantes, France",
@@ -1788,7 +1639,6 @@
         "title": "Soon Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Mess%20-%20Bar%204h%20-%20Melodie%20en%20Sous%20Sol&query_place_id=ChIJTfnEZEbvBUgRmEeTFiijB7c",
         "address": "19 Rue Léon Blum, 44000 Nantes, France",
@@ -1800,7 +1650,6 @@
         "title": "Mess - Bar 4h - Melodie en Sous Sol"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Manu%20%7C%20Bar%20%C3%A0%20Vins%20et%20D%C3%A9gustations&query_place_id=ChIJ9wxxk6buBUgR5VuNFixfVZI",
         "address": "8 Rue Armand Brossard, 44000 Nantes, France",
@@ -1812,7 +1661,6 @@
         "title": "Chez Manu | Bar à Vins et Dégustations"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Big%20Ben&query_place_id=ChIJQ98j9aXuBUgRW8mT2s6KF-s",
         "address": "1 Rue Kervégan, 44000 Nantes, France",
@@ -1824,7 +1672,6 @@
         "title": "Le Big Ben"
     },
     {
-        "categoryName": "Tiki bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Bubba%20Gump&query_place_id=ChIJZ4w3A2fvBUgRKYo0JAJFOUk",
         "address": "4 Rue des Chapeliers, 44000 Nantes, France",
@@ -1836,7 +1683,6 @@
         "title": "Bubba Gump"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Sauvage&query_place_id=ChIJS9Xi46PuBUgRkfTiGxN9Exw",
         "address": "12 Rue Léon Blum, 44000 Nantes, France",
@@ -1848,7 +1694,6 @@
         "title": "Le Sauvage"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Callaway&query_place_id=ChIJHzMeA6XuBUgRPSJfnkpir_E",
         "address": "2 Rue de l'Emery, 44000 Nantes, France",
@@ -1860,7 +1705,6 @@
         "title": "Le Callaway"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Saint%20Pierre&query_place_id=ChIJhxrrmaTuBUgRW_4Q8APCjbM",
         "address": "5 Pl. Saint-Pierre, 44000 Nantes, France",
@@ -1872,7 +1716,6 @@
         "title": "Cafe Saint Pierre"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=BAR303&query_place_id=ChIJz3eAFXPvBUgRO9s-i9m6_FM",
         "address": "1 Rue Jean Jaurès, 44000 Nantes, France",
@@ -1884,7 +1727,6 @@
         "title": "BAR303"
     },
     {
-        "categoryName": "Live music bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Ribouldingue&query_place_id=ChIJmRpKWKTuBUgRLjEc31aCISA",
         "address": "33 Rue de Verdun, 44000 Nantes, France",
@@ -1896,7 +1738,6 @@
         "title": "La Ribouldingue"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Navigator&query_place_id=ChIJEX3YizXvBUgRRAfwV4iT7Rw",
         "address": "23 Rue Saint-Léonard, 44000 Nantes, France",
@@ -1908,7 +1749,6 @@
         "title": "The Navigator"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Singe%20en%20Hiver&query_place_id=ChIJrzBAI5PvBUgRNaf9GYoYTj4",
         "address": "17 Rue des Carmélites, 44000 Nantes, France",
@@ -1920,7 +1760,6 @@
         "title": "Le Singe en Hiver"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Cornishman&query_place_id=ChIJI8vGXVnvBUgRjm-YpoDOspo",
         "address": "3 Rue du Pré Nian, 44000 Nantes, France",
@@ -1932,7 +1771,6 @@
         "title": "The Cornishman"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Bande%20Originale&query_place_id=ChIJQ6MhX7_vBUgRzptfXYBFC_4",
         "address": "9 Rue de l'Hôtel de Ville, 44000 Nantes, France",
@@ -1944,7 +1782,6 @@
         "title": "Bande Originale"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Planck&query_place_id=ChIJ733SPaXuBUgR-RMP86A0OGc",
         "address": "3 All. du Port Maillard, 44000 Nantes, France",
@@ -1956,7 +1793,6 @@
         "title": "Planck"
     },
     {
-        "categoryName": "Gay bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=LE%20KALEIDOSCOPE&query_place_id=ChIJFVJD87TvBUgR4ExrnY0-Q2k",
         "address": "9 Rue Paré, 44000 Nantes, France",
@@ -1968,7 +1804,6 @@
         "title": "LE KALEIDOSCOPE"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Briord&query_place_id=ChIJFXXf5c3vBUgR1S8jGyQnb8g",
         "address": "3 Rue de Briord, 44000 Nantes, France",
@@ -1980,7 +1815,6 @@
         "title": "Le Briord"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Havana%20Coffee%20Nantes&query_place_id=ChIJrZyYq6XuBUgR6ArujFgMLDg",
         "address": "2 Rue de la Juiverie, 44000 Nantes, France",
@@ -1992,7 +1826,6 @@
         "title": "Havana Coffee Nantes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Lutin%20De%20Travers&query_place_id=ChIJ7TCGM5fuBUgRv1qf7t6qMZs",
         "address": "3 Rue Beausoleil, 44000 Nantes, France",
@@ -2004,7 +1837,6 @@
         "title": "Le Lutin De Travers"
     },
     {
-        "categoryName": "Wine bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Jeroboam&query_place_id=ChIJswMW4aPuBUgR40m3CSJrBMY",
         "address": "21 Rue Léon Blum, 44000 Nantes, France",
@@ -2016,7 +1848,6 @@
         "title": "Le Jeroboam"
     },
     {
-        "categoryName": "Gay bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=Block%20Men&query_place_id=ChIJJdFxY6PuBUgRmQuhjrVj2nY",
         "address": "3 Rue Ogée, 44000 Nantes, France",
@@ -2028,7 +1859,6 @@
         "title": "Block Men"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Chez%20Marius&query_place_id=ChIJ_dO6S5PvBUgRzWiBSH5byyU",
         "address": "6 Rue des Carmélites, 44000 Nantes, France",
@@ -2040,7 +1870,6 @@
         "title": "Chez Marius"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20de%20l'Aubette&query_place_id=ChIJW0EstB_sBUgRUjrqglFvlpo",
         "address": "12 Pl. Viarme, 44000 Nantes, France",
@@ -2052,7 +1881,6 @@
         "title": "Café de l'Aubette"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Princesse%20Abibiche&query_place_id=ChIJ2d-kdzbvBUgRrGrzye3jkYs",
         "address": "6 Rue Paul Bellamy, 44000 Nantes, France",
@@ -2064,7 +1892,6 @@
         "title": "Princesse Abibiche"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Jungle%20Bar&query_place_id=ChIJd8Ktj1HvBUgRMqtM7cW3owA",
         "address": "2 All. Duguay Trouin, 44000 Nantes, France",
@@ -2076,7 +1903,6 @@
         "title": "Le Jungle Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Coup%20du%20Lapin&query_place_id=ChIJT08b1q_uBUgRAhP93EJj2vw",
         "address": "21 Rue des Olivettes, 44000 Nantes, France",
@@ -2088,7 +1914,6 @@
         "title": "Le Coup du Lapin"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Cap's%20bar&query_place_id=ChIJV57EhszvBUgRvhI7LZfsr9A",
         "address": "9 Rue Bon Secours, 44000 Nantes, France",
@@ -2100,7 +1925,6 @@
         "title": "Cap's bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=The%20Green%20Sheep&query_place_id=ChIJMzBx9aXuBUgRoxwCmSsODCA",
         "address": "rue 44000, 6 Rue Bon Secours, 44000 Nantes, France",
@@ -2112,7 +1936,6 @@
         "title": "The Green Sheep"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=ZAZOU%20-%20bar%20d%C3%A9sinvolte&query_place_id=ChIJsTGZWq_uBUgR_49SryRSM6w",
         "address": "3 Quai Turenne, 44000 Nantes, France",
@@ -2124,7 +1947,6 @@
         "title": "ZAZOU - bar désinvolte"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Chemin%20De%20Traverse%20Bar%20%C3%A0%20Bi%C3%A8res&query_place_id=ChIJkVBA9KXuBUgRgPxLNgalerk",
         "address": "2bis Rue Bon Secours, 44100 Nantes, France",
@@ -2136,7 +1958,6 @@
         "title": "Le Chemin De Traverse Bar à Bières"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Track%20N%20Art&query_place_id=ChIJoa-giqXuBUgRLC8lwC_W7ws",
         "address": "13 Rue Bon Secours, 44000 Nantes, France",
@@ -2148,7 +1969,6 @@
         "title": "Track N Art"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Medusa&query_place_id=ChIJ6UR4NoPvBUgR3M3S8CrtybM",
         "address": "10 Rue Bon Secours, 44000 Nantes, France",
@@ -2160,7 +1980,6 @@
         "title": "Medusa"
     },
     {
-        "categoryName": "Cocktail bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Coco%20Bandit&query_place_id=ChIJ3e58l1_vBUgRSoLkNUh8j60",
         "address": "15 Rue Crucy, 44000 Nantes, France",
@@ -2172,7 +1991,6 @@
         "title": "Coco Bandit"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.4,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Poulp'&query_place_id=ChIJVVUhjaXuBUgRur5XznuWkwE",
         "address": "2 Rue Léon Maître, 44000 Nantes, France",
@@ -2184,7 +2002,6 @@
         "title": "Le Poulp'"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=SC%20Club%20Nantes%20-%20Strip%20Caf%C3%A9%20Club&query_place_id=ChIJ1fdO87DuBUgRBg0FDyJAvXU",
         "address": "15 Rue Fouré, 44000 Nantes, France",
@@ -2196,7 +2013,6 @@
         "title": "SC Club Nantes - Strip Café Club"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=LE%20MORSE%20-%20Bistrot%20Restaurant%20Nantes%20-%20HUITRES%20-%20LANGOUSTINES%20-%20SEAFOOD%20-%20LOBSTERROLL&query_place_id=ChIJbYAcjkLvBUgRuo3Ec7JxgSE",
         "address": "1 All. de la Maison Rouge, 44000 Nantes, France",
@@ -2208,7 +2024,6 @@
         "title": "LE MORSE - Bistrot Restaurant Nantes - HUITRES - LANGOUSTINES - SEAFOOD - LOBSTERROLL"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 5,
         "url": "https://www.google.com/maps/search/?api=1&query=Alexandre%20Chollet%20BGM&query_place_id=ChIJMabcUaTuBUgR7qKrIJGQYbM",
         "address": "2 All. Flesselles, 44000 Nantes, France",
@@ -2220,7 +2035,6 @@
         "title": "Alexandre Chollet BGM"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=HoPoPop%20Caf%C3%A9&query_place_id=ChIJP52SE6XuBUgRj0CdqlWoOZU",
         "address": "6 All. du Port Maillard, 44000 Nantes, France",
@@ -2232,7 +2046,6 @@
         "title": "HoPoPop Café"
     },
     {
-        "categoryName": "Coffee shop",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJxaMJ16XuBUgRAo1FFGf8RcQ",
         "address": "27 Rue de la Marne, 44000 Nantes, France",
@@ -2244,7 +2057,6 @@
         "title": "Starbucks"
     },
     {
-        "categoryName": "Pub",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Sur-Mesure&query_place_id=ChIJ53DhYKTuBUgRpJvRHHIcJQg",
         "address": "15 Rue Beauregard, 44000 Nantes, France",
@@ -2256,7 +2068,6 @@
         "title": "Le Sur-Mesure"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Espit%20Chupitos&query_place_id=ChIJQwN-BaTvBUgR5YaNPeV6USk",
         "address": "2 Rue de la Paix, 44000 Nantes, France",
@@ -2268,7 +2079,6 @@
         "title": "Espit Chupitos"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Haiti%20Cherie&query_place_id=ChIJsaghk6DuBUgR6pvXGBN1hlw",
         "address": "45 Rue Léon Jamin, 44000 Nantes, France",
@@ -2280,7 +2090,6 @@
         "title": "Haiti Cherie"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.3,
         "url": "https://www.google.com/maps/search/?api=1&query=New%20Factory&query_place_id=ChIJAQCsHLHuBUgRpNF1iX3Ov3k",
         "address": "12 Rue de Rieux, 44000 Nantes, France",
@@ -2292,7 +2101,6 @@
         "title": "New Factory"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Camaroes&query_place_id=ChIJ21e1V6zuBUgRYRYGKuh19zQ",
         "address": "22B Bd Babin Chevaye, 44200 Nantes, France",
@@ -2304,7 +2112,6 @@
         "title": "Camaroes"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=ASKIP&query_place_id=ChIJD-Edof_tBUgRIIvsRTCB0bw",
         "address": "2 All. Frida Kahlo, 44200 Nantes, France",
@@ -2316,7 +2123,6 @@
         "title": "ASKIP"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.1,
         "url": "https://www.google.com/maps/search/?api=1&query=Tabac%20Black%20Pearl%20Caf%C3%A9&query_place_id=ChIJ7xa83iHvBUgRSsNIQ2oNSss",
         "address": "16 Rue de Mayence, 44000 Nantes, France",
@@ -2328,7 +2134,6 @@
         "title": "Tabac Black Pearl Café"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.7,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Bilboquet&query_place_id=ChIJR4ZmMa3uBUgRgiA1boQgH3o",
         "address": "19 Bd Gustave Roch, 44200 Nantes, France",
@@ -2340,7 +2145,6 @@
         "title": "Le Bilboquet"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Dukes%20Bar&query_place_id=ChIJcQcmhmvvBUgR1S7Y-7Enr3U",
         "address": "9 Rue de Rieux, 44000 Nantes, France",
@@ -2352,7 +2156,6 @@
         "title": "Dukes Bar"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Yum&query_place_id=ChIJazLAtzHvBUgRKokQ6sLR964",
         "address": "61 Quai Magellan, 44000 Nantes, France",
@@ -2364,7 +2167,6 @@
         "title": "Le Yum"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.9,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Rafiot&query_place_id=ChIJ7dE8MHnvBUgRZuSbjNhaEKs",
         "address": "6 Rue Saint-Nicolas, 44000 Nantes, France",
@@ -2376,7 +2178,6 @@
         "title": "Le Rafiot"
     },
     {
-        "categoryName": "Coffee shop",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks&query_place_id=ChIJRw_AwcruBUgRZUeKyACGsT4",
         "address": "6 Rue du Dr Zamenhof, 44200 Nantes, France",
@@ -2388,7 +2189,6 @@
         "title": "Starbucks"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=La%20Terrasse%20de%20l%E2%80%99%C3%8Ele&query_place_id=ChIJNW1MV_brBUgRINtMNGmFWDk",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -2400,7 +2200,6 @@
         "title": "La Terrasse de l’Île"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Bain%20Rouge&query_place_id=ChIJDx6MgkDvBUgR1TToRDjY-GI",
         "address": "7 All. de la Maison Rouge, 44000 Nantes, France",
@@ -2412,7 +2211,6 @@
         "title": "Le Bain Rouge"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4,
         "url": "https://www.google.com/maps/search/?api=1&query=SAO&query_place_id=ChIJ32VZFkXrBUgRAktyqwT94L8",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -2424,7 +2222,6 @@
         "title": "SAO"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.1,
         "url": "https://www.google.com/maps/search/?api=1&query=D3&query_place_id=ChIJfa0x66frBUgRcs8AaO2e5Sk",
         "address": "Quai des Antilles, 44200 Nantes, France",
@@ -2436,7 +2233,6 @@
         "title": "D3"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Bistrot%20de%20Mr%20Jules&query_place_id=ChIJY8ASQ_XrBUgRbJCGEW_Yh0g",
         "address": "11 Av. Sainte-Anne, 44100 Nantes, France",
@@ -2448,7 +2244,6 @@
         "title": "Le Bistrot de Mr Jules"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.8,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Floride&query_place_id=ChIJuSSrMPjrBUgR0rGCQ95yV0w",
         "address": "4 Rue St Domingue, 44200 Nantes, France",
@@ -2460,7 +2255,6 @@
         "title": "Le Floride"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.6,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Ferrailleur&query_place_id=ChIJS86dWvbrBUgRbMNIZqHFLCo",
         "address": "21 Quai des Antilles, 44200 Nantes, France",
@@ -2472,7 +2266,6 @@
         "title": "Le Ferrailleur"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 3.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20T%20Kaf%C3%A9&query_place_id=ChIJfVj4RU_vBUgRiaMfaJ_uxRI",
         "address": "4 Rue de Cornulier, 44000 Nantes, France",
@@ -2484,7 +2277,6 @@
         "title": "Le T Kafé"
     },
     {
-        "categoryName": "Bar",
         "totalScore": 4.5,
         "url": "https://www.google.com/maps/search/?api=1&query=Chauffe%20Marcel&query_place_id=ChIJye3HKq7uBUgRyss7IZT1R8c",
         "address": "44036 Nantes, France",

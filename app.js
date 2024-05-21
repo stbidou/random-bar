@@ -43,7 +43,6 @@ function displayPlaceDetails(place) {
         <center><h2>${place.title}</h2></center>
         <hr>
         <p><strong>Adresse :</strong> ${place.address}</p>
-        <p><strong>Catégories :</strong> ${place.categoryName}</p>
         <p><strong>Note :</strong> ${place.totalScore} (${place.reviewsCount} avis)</p>
         <p><strong>URL :</strong> <a href="${place.url}" target="_blank">${place.url}</a></p>
         <hr><p><strong>Nombre de bar dans la zone : </strong>${nbrbar}</p>`;
