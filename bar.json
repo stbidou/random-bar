@@ -36,18 +36,6 @@
         "title": "Tabarnak"
     },
     {
-        "categoryName": "Live music bar",
-        "totalScore": 4.5,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Chat%20noir&query_place_id=ChIJ14yUmajuBUgRO1JWZWib6pk",
-        "address": "13 All. Duguay Trouin, 44000 Nantes, France",
-        "reviewsCount": 1174,
-        "location": {
-            "lat": 47.2129621,
-            "lng": -1.5563101
-        },
-        "title": "Le Chat noir"
-    },
-    {
         "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Bar%20Du%20Coin&query_place_id=ChIJ262Qt6XuBUgR37scs4tTuoI",
@@ -145,18 +133,6 @@
     },
     {
         "categoryName": "Bar",
-        "totalScore": 4.4,
-        "url": "https://www.google.com/maps/search/?api=1&query=L'Embuscade&query_place_id=ChIJP_OnYq_uBUgRBBUBah4hXig",
-        "address": "1 Quai Turenne, 44000 Nantes, France",
-        "reviewsCount": 515,
-        "location": {
-            "lat": 47.2134363,
-            "lng": -1.5531263
-        },
-        "title": "L'Embuscade"
-    },
-    {
-        "categoryName": "Bar",
         "totalScore": 4.2,
         "url": "https://www.google.com/maps/search/?api=1&query=Le%20Rabelais&query_place_id=ChIJP_tbwqXuBUgReWPCfxsHNrQ",
         "address": "3 Rue du Bouffay, 44000 Nantes, France",
@@ -250,18 +226,6 @@
             "lng": -1.5035077
         },
         "title": "Place aux Vins"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 3.7,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20D'Artagnan&query_place_id=ChIJQavr7FjuBUgRx8zwlGUYH2w",
-        "address": "173 Rte de Saint-Joseph, 44000 Nantes, France",
-        "reviewsCount": 101,
-        "location": {
-            "lat": 47.2443559,
-            "lng": -1.5338918
-        },
-        "title": "Le D'Artagnan"
     },
     {
         "categoryName": "Bar",
@@ -1032,18 +996,6 @@
         "title": "Space Shake"
     },
     {
-        "categoryName": "Bar",
-        "totalScore": 4,
-        "url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9%20du%20Commerce&query_place_id=ChIJWWByDqjuBUgRFQK1HBYxStE",
-        "address": "9-10 Pl. du Commerce, 44000 Nantes, France",
-        "reviewsCount": 1333,
-        "location": {
-            "lat": 47.2134676,
-            "lng": -1.5581571
-        },
-        "title": "Café du Commerce"
-    },
-    {
         "categoryName": "Cocktail bar",
         "totalScore": 4.3,
         "url": "https://www.google.com/maps/search/?api=1&query=L'Univers%20Speakeasy&query_place_id=ChIJWYW3zgLsBUgRfWMcXOG13K8",
@@ -1318,18 +1270,6 @@
             "lng": -1.5589641
         },
         "title": "Pioche - bar de jeux coopératifs"
-    },
-    {
-        "categoryName": "Bar",
-        "totalScore": 4.3,
-        "url": "https://www.google.com/maps/search/?api=1&query=Le%20Cascabel&query_place_id=ChIJw6XZiKXuBUgRGd1RgU_qTXE",
-        "address": "1 Rue Kervégan, 44000 Nantes, France",
-        "reviewsCount": 401,
-        "location": {
-            "lat": 47.213765,
-            "lng": -1.553112
-        },
-        "title": "Le Cascabel"
     },
     {
         "categoryName": "Bar",
