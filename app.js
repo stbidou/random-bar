@@ -40,10 +40,10 @@ function displayPlaceDetails(place) {
     const placeDetailsDiv = document.getElementById('place-details');
 
     placeDetailsDiv.innerHTML = `
-        <center><h2>${place.title}</h2></center>
+        <h2>${place.title}</h2>
         <hr>
         <p><strong>Adresse :</strong> ${place.address}</p>
-        <p><strong>Note :</strong> ${place.totalScore} (${place.reviewsCount} avis)</p>
+        <p><strong>Note :</strong> ${place.totalScore}★ (${place.reviewsCount} avis)</p>
         <p><strong>URL :</strong> <a href="${place.url}" target="_blank">${place.url}</a></p>
         <hr><p><strong>Nombre de bar dans la zone : </strong>${nbrbar}</p>`;
 }
@@ -82,11 +82,11 @@ function loadAndDisplayRandomNearbyPlace() {
             displayPlaceDetails(randomPlace);
         } else {
             console.warn('Aucun bar trouvé dans le rayon defini.');
-            document.getElementById('place-details').innerHTML = '<center><p>Aucun bar trouvé dans le rayon défini.</p></center>';
+            document.getElementById('place-details').innerHTML = '<p>Aucun bar trouvé dans le rayon défini.</p>';
         }
     }, error => {
         console.error('Erreur de géolocalisation:', error);
-        document.getElementById('place-details').innerHTML = '<center><p>Erreur de géolocalisation. Impossible de trouver votre position.</p></center>';
+        document.getElementById('place-details').innerHTML = '<p>Erreur de géolocalisation. Impossible de trouver votre position.</p>';
     });
 }
 
