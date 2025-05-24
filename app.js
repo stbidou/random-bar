@@ -92,7 +92,19 @@ function loadAndDisplayRandomNearbyPlace() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadPlacesData().then(loadAndDisplayRandomNearbyPlace);
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+            () => {
+                loadPlacesData().then(loadAndDisplayRandomNearbyPlace);
+            },
+            () => {
+                // L'utilisateur a refusé ou n'a pas encore répondu — on ne fait rien
+            }
+        );
+    } else {
+        document.getElementById('place-details').innerHTML = '<p>La géolocalisation n’est pas supportée par ce navigateur.</p>';
+    }
 });
+
 
 document.getElementById('reload-btn').addEventListener('click', loadAndDisplayRandomNearbyPlace);
